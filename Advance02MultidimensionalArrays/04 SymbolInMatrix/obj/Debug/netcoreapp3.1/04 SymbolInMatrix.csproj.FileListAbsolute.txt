@@ -1,0 +1,13 @@
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\04 SymbolInMatrix\bin\Debug\netcoreapp3.1\04 SymbolInMatrix.exe
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\04 SymbolInMatrix\bin\Debug\netcoreapp3.1\04 SymbolInMatrix.deps.json
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\04 SymbolInMatrix\bin\Debug\netcoreapp3.1\04 SymbolInMatrix.runtimeconfig.json
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\04 SymbolInMatrix\bin\Debug\netcoreapp3.1\04 SymbolInMatrix.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\04 SymbolInMatrix\bin\Debug\netcoreapp3.1\04 SymbolInMatrix.dll
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\04 SymbolInMatrix\bin\Debug\netcoreapp3.1\04 SymbolInMatrix.pdb
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\04 SymbolInMatrix\obj\Debug\netcoreapp3.1\04 SymbolInMatrix.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\04 SymbolInMatrix\obj\Debug\netcoreapp3.1\04 SymbolInMatrix.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\04 SymbolInMatrix\obj\Debug\netcoreapp3.1\04 SymbolInMatrix.AssemblyInfo.cs
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\04 SymbolInMatrix\obj\Debug\netcoreapp3.1\04 SymbolInMatrix.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\04 SymbolInMatrix\obj\Debug\netcoreapp3.1\04 SymbolInMatrix.dll
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\04 SymbolInMatrix\obj\Debug\netcoreapp3.1\04 SymbolInMatrix.pdb
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\04 SymbolInMatrix\obj\Debug\netcoreapp3.1\04 SymbolInMatrix.genruntimeconfig.cache

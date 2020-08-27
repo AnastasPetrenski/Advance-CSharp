@@ -1,0 +1,13 @@
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\12 SnakeMoves\bin\Debug\netcoreapp3.1\12 SnakeMoves.exe
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\12 SnakeMoves\bin\Debug\netcoreapp3.1\12 SnakeMoves.deps.json
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\12 SnakeMoves\bin\Debug\netcoreapp3.1\12 SnakeMoves.runtimeconfig.json
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\12 SnakeMoves\bin\Debug\netcoreapp3.1\12 SnakeMoves.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\12 SnakeMoves\bin\Debug\netcoreapp3.1\12 SnakeMoves.dll
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\12 SnakeMoves\bin\Debug\netcoreapp3.1\12 SnakeMoves.pdb
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\12 SnakeMoves\obj\Debug\netcoreapp3.1\12 SnakeMoves.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\12 SnakeMoves\obj\Debug\netcoreapp3.1\12 SnakeMoves.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\12 SnakeMoves\obj\Debug\netcoreapp3.1\12 SnakeMoves.AssemblyInfo.cs
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\12 SnakeMoves\obj\Debug\netcoreapp3.1\12 SnakeMoves.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\12 SnakeMoves\obj\Debug\netcoreapp3.1\12 SnakeMoves.dll
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\12 SnakeMoves\obj\Debug\netcoreapp3.1\12 SnakeMoves.pdb
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\12 SnakeMoves\obj\Debug\netcoreapp3.1\12 SnakeMoves.genruntimeconfig.cache

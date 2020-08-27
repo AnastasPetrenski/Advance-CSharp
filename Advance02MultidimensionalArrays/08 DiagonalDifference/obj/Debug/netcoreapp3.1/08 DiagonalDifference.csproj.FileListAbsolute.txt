@@ -1,0 +1,13 @@
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\08 DiagonalDifference\bin\Debug\netcoreapp3.1\08 DiagonalDifference.exe
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\08 DiagonalDifference\bin\Debug\netcoreapp3.1\08 DiagonalDifference.deps.json
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\08 DiagonalDifference\bin\Debug\netcoreapp3.1\08 DiagonalDifference.runtimeconfig.json
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\08 DiagonalDifference\bin\Debug\netcoreapp3.1\08 DiagonalDifference.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\08 DiagonalDifference\bin\Debug\netcoreapp3.1\08 DiagonalDifference.dll
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\08 DiagonalDifference\bin\Debug\netcoreapp3.1\08 DiagonalDifference.pdb
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\08 DiagonalDifference\obj\Debug\netcoreapp3.1\08 DiagonalDifference.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\08 DiagonalDifference\obj\Debug\netcoreapp3.1\08 DiagonalDifference.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\08 DiagonalDifference\obj\Debug\netcoreapp3.1\08 DiagonalDifference.AssemblyInfo.cs
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\08 DiagonalDifference\obj\Debug\netcoreapp3.1\08 DiagonalDifference.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\08 DiagonalDifference\obj\Debug\netcoreapp3.1\08 DiagonalDifference.dll
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\08 DiagonalDifference\obj\Debug\netcoreapp3.1\08 DiagonalDifference.pdb
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\08 DiagonalDifference\obj\Debug\netcoreapp3.1\08 DiagonalDifference.genruntimeconfig.cache

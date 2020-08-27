@@ -1,0 +1,13 @@
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\14 KnightGame\bin\Debug\netcoreapp3.1\14 KnightGame.exe
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\14 KnightGame\bin\Debug\netcoreapp3.1\14 KnightGame.deps.json
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\14 KnightGame\bin\Debug\netcoreapp3.1\14 KnightGame.runtimeconfig.json
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\14 KnightGame\bin\Debug\netcoreapp3.1\14 KnightGame.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\14 KnightGame\bin\Debug\netcoreapp3.1\14 KnightGame.dll
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\14 KnightGame\bin\Debug\netcoreapp3.1\14 KnightGame.pdb
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\14 KnightGame\obj\Debug\netcoreapp3.1\14 KnightGame.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\14 KnightGame\obj\Debug\netcoreapp3.1\14 KnightGame.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\14 KnightGame\obj\Debug\netcoreapp3.1\14 KnightGame.AssemblyInfo.cs
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\14 KnightGame\obj\Debug\netcoreapp3.1\14 KnightGame.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\14 KnightGame\obj\Debug\netcoreapp3.1\14 KnightGame.dll
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\14 KnightGame\obj\Debug\netcoreapp3.1\14 KnightGame.pdb
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\14 KnightGame\obj\Debug\netcoreapp3.1\14 KnightGame.genruntimeconfig.cache

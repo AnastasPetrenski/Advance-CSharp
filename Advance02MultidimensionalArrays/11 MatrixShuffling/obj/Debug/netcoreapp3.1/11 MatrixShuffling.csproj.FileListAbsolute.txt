@@ -1,0 +1,13 @@
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\11 MatrixShuffling\bin\Debug\netcoreapp3.1\11 MatrixShuffling.exe
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\11 MatrixShuffling\bin\Debug\netcoreapp3.1\11 MatrixShuffling.deps.json
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\11 MatrixShuffling\bin\Debug\netcoreapp3.1\11 MatrixShuffling.runtimeconfig.json
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\11 MatrixShuffling\bin\Debug\netcoreapp3.1\11 MatrixShuffling.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\11 MatrixShuffling\bin\Debug\netcoreapp3.1\11 MatrixShuffling.dll
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\11 MatrixShuffling\bin\Debug\netcoreapp3.1\11 MatrixShuffling.pdb
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\11 MatrixShuffling\obj\Debug\netcoreapp3.1\11 MatrixShuffling.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\11 MatrixShuffling\obj\Debug\netcoreapp3.1\11 MatrixShuffling.AssemblyInfo.cs
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\11 MatrixShuffling\obj\Debug\netcoreapp3.1\11 MatrixShuffling.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\11 MatrixShuffling\obj\Debug\netcoreapp3.1\11 MatrixShuffling.dll
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\11 MatrixShuffling\obj\Debug\netcoreapp3.1\11 MatrixShuffling.pdb
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\11 MatrixShuffling\obj\Debug\netcoreapp3.1\11 MatrixShuffling.genruntimeconfig.cache
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\11 MatrixShuffling\obj\Debug\netcoreapp3.1\11 MatrixShuffling.csprojAssemblyReference.cache

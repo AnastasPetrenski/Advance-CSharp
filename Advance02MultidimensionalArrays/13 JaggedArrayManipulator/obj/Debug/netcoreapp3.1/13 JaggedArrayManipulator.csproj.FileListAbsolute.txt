@@ -1,0 +1,13 @@
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\13 JaggedArrayManipulator\bin\Debug\netcoreapp3.1\13 JaggedArrayManipulator.exe
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\13 JaggedArrayManipulator\bin\Debug\netcoreapp3.1\13 JaggedArrayManipulator.deps.json
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\13 JaggedArrayManipulator\bin\Debug\netcoreapp3.1\13 JaggedArrayManipulator.runtimeconfig.json
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\13 JaggedArrayManipulator\bin\Debug\netcoreapp3.1\13 JaggedArrayManipulator.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\13 JaggedArrayManipulator\bin\Debug\netcoreapp3.1\13 JaggedArrayManipulator.dll
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\13 JaggedArrayManipulator\bin\Debug\netcoreapp3.1\13 JaggedArrayManipulator.pdb
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\13 JaggedArrayManipulator\obj\Debug\netcoreapp3.1\13 JaggedArrayManipulator.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\13 JaggedArrayManipulator\obj\Debug\netcoreapp3.1\13 JaggedArrayManipulator.AssemblyInfo.cs
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\13 JaggedArrayManipulator\obj\Debug\netcoreapp3.1\13 JaggedArrayManipulator.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\13 JaggedArrayManipulator\obj\Debug\netcoreapp3.1\13 JaggedArrayManipulator.dll
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\13 JaggedArrayManipulator\obj\Debug\netcoreapp3.1\13 JaggedArrayManipulator.pdb
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\13 JaggedArrayManipulator\obj\Debug\netcoreapp3.1\13 JaggedArrayManipulator.genruntimeconfig.cache
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\13 JaggedArrayManipulator\obj\Debug\netcoreapp3.1\13 JaggedArrayManipulator.csprojAssemblyReference.cache

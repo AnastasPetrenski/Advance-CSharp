@@ -1,0 +1,13 @@
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\06 JaggedArrayModification\bin\Debug\netcoreapp3.1\06 JaggedArrayModification.exe
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\06 JaggedArrayModification\bin\Debug\netcoreapp3.1\06 JaggedArrayModification.deps.json
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\06 JaggedArrayModification\bin\Debug\netcoreapp3.1\06 JaggedArrayModification.runtimeconfig.json
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\06 JaggedArrayModification\bin\Debug\netcoreapp3.1\06 JaggedArrayModification.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\06 JaggedArrayModification\bin\Debug\netcoreapp3.1\06 JaggedArrayModification.dll
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\06 JaggedArrayModification\bin\Debug\netcoreapp3.1\06 JaggedArrayModification.pdb
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\06 JaggedArrayModification\obj\Debug\netcoreapp3.1\06 JaggedArrayModification.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\06 JaggedArrayModification\obj\Debug\netcoreapp3.1\06 JaggedArrayModification.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\06 JaggedArrayModification\obj\Debug\netcoreapp3.1\06 JaggedArrayModification.AssemblyInfo.cs
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\06 JaggedArrayModification\obj\Debug\netcoreapp3.1\06 JaggedArrayModification.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\06 JaggedArrayModification\obj\Debug\netcoreapp3.1\06 JaggedArrayModification.dll
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\06 JaggedArrayModification\obj\Debug\netcoreapp3.1\06 JaggedArrayModification.pdb
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\06 JaggedArrayModification\obj\Debug\netcoreapp3.1\06 JaggedArrayModification.genruntimeconfig.cache

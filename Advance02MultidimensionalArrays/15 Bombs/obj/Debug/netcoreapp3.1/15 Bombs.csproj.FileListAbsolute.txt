@@ -1,0 +1,13 @@
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\15 Bombs\bin\Debug\netcoreapp3.1\15 Bombs.exe
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\15 Bombs\bin\Debug\netcoreapp3.1\15 Bombs.deps.json
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\15 Bombs\bin\Debug\netcoreapp3.1\15 Bombs.runtimeconfig.json
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\15 Bombs\bin\Debug\netcoreapp3.1\15 Bombs.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\15 Bombs\bin\Debug\netcoreapp3.1\15 Bombs.dll
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\15 Bombs\bin\Debug\netcoreapp3.1\15 Bombs.pdb
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\15 Bombs\obj\Debug\netcoreapp3.1\15 Bombs.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\15 Bombs\obj\Debug\netcoreapp3.1\15 Bombs.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\15 Bombs\obj\Debug\netcoreapp3.1\15 Bombs.AssemblyInfo.cs
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\15 Bombs\obj\Debug\netcoreapp3.1\15 Bombs.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\15 Bombs\obj\Debug\netcoreapp3.1\15 Bombs.dll
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\15 Bombs\obj\Debug\netcoreapp3.1\15 Bombs.pdb
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\15 Bombs\obj\Debug\netcoreapp3.1\15 Bombs.genruntimeconfig.cache

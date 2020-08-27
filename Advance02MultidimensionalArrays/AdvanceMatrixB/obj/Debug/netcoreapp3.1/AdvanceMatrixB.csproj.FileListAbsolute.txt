@@ -1,0 +1,13 @@
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\AdvanceMatrixB\bin\Debug\netcoreapp3.1\AdvanceMatrixB.exe
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\AdvanceMatrixB\bin\Debug\netcoreapp3.1\AdvanceMatrixB.deps.json
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\AdvanceMatrixB\bin\Debug\netcoreapp3.1\AdvanceMatrixB.runtimeconfig.json
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\AdvanceMatrixB\bin\Debug\netcoreapp3.1\AdvanceMatrixB.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\AdvanceMatrixB\bin\Debug\netcoreapp3.1\AdvanceMatrixB.dll
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\AdvanceMatrixB\bin\Debug\netcoreapp3.1\AdvanceMatrixB.pdb
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\AdvanceMatrixB\obj\Debug\netcoreapp3.1\AdvanceMatrixB.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\AdvanceMatrixB\obj\Debug\netcoreapp3.1\AdvanceMatrixB.AssemblyInfo.cs
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\AdvanceMatrixB\obj\Debug\netcoreapp3.1\AdvanceMatrixB.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\AdvanceMatrixB\obj\Debug\netcoreapp3.1\AdvanceMatrixB.dll
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\AdvanceMatrixB\obj\Debug\netcoreapp3.1\AdvanceMatrixB.pdb
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\AdvanceMatrixB\obj\Debug\netcoreapp3.1\AdvanceMatrixB.genruntimeconfig.cache
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\AdvanceMatrixB\obj\Debug\netcoreapp3.1\AdvanceMatrixB.csprojAssemblyReference.cache

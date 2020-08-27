@@ -1,0 +1,13 @@
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\Test\bin\Debug\netcoreapp3.1\Test.exe
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\Test\bin\Debug\netcoreapp3.1\Test.deps.json
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\Test\bin\Debug\netcoreapp3.1\Test.runtimeconfig.json
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\Test\bin\Debug\netcoreapp3.1\Test.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\Test\bin\Debug\netcoreapp3.1\Test.dll
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\Test\bin\Debug\netcoreapp3.1\Test.pdb
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\Test\obj\Debug\netcoreapp3.1\Test.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\Test\obj\Debug\netcoreapp3.1\Test.AssemblyInfo.cs
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\Test\obj\Debug\netcoreapp3.1\Test.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\Test\obj\Debug\netcoreapp3.1\Test.dll
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\Test\obj\Debug\netcoreapp3.1\Test.pdb
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\Test\obj\Debug\netcoreapp3.1\Test.genruntimeconfig.cache
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\Test\obj\Debug\netcoreapp3.1\Test.csprojAssemblyReference.cache

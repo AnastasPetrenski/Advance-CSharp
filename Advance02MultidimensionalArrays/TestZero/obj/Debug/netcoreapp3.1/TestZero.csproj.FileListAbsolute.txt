@@ -1,0 +1,13 @@
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\TestZero\bin\Debug\netcoreapp3.1\TestZero.exe
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\TestZero\bin\Debug\netcoreapp3.1\TestZero.deps.json
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\TestZero\bin\Debug\netcoreapp3.1\TestZero.runtimeconfig.json
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\TestZero\bin\Debug\netcoreapp3.1\TestZero.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\TestZero\bin\Debug\netcoreapp3.1\TestZero.dll
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\TestZero\bin\Debug\netcoreapp3.1\TestZero.pdb
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\TestZero\obj\Debug\netcoreapp3.1\TestZero.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\TestZero\obj\Debug\netcoreapp3.1\TestZero.AssemblyInfo.cs
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\TestZero\obj\Debug\netcoreapp3.1\TestZero.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\TestZero\obj\Debug\netcoreapp3.1\TestZero.dll
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\TestZero\obj\Debug\netcoreapp3.1\TestZero.pdb
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\TestZero\obj\Debug\netcoreapp3.1\TestZero.genruntimeconfig.cache
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\TestZero\obj\Debug\netcoreapp3.1\TestZero.csprojAssemblyReference.cache

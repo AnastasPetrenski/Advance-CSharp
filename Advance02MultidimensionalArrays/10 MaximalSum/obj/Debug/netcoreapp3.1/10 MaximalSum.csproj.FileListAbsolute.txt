@@ -1,0 +1,13 @@
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\10 MaximalSum\bin\Debug\netcoreapp3.1\10 MaximalSum.exe
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\10 MaximalSum\bin\Debug\netcoreapp3.1\10 MaximalSum.deps.json
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\10 MaximalSum\bin\Debug\netcoreapp3.1\10 MaximalSum.runtimeconfig.json
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\10 MaximalSum\bin\Debug\netcoreapp3.1\10 MaximalSum.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\10 MaximalSum\bin\Debug\netcoreapp3.1\10 MaximalSum.dll
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\10 MaximalSum\bin\Debug\netcoreapp3.1\10 MaximalSum.pdb
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\10 MaximalSum\obj\Debug\netcoreapp3.1\10 MaximalSum.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\10 MaximalSum\obj\Debug\netcoreapp3.1\10 MaximalSum.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\10 MaximalSum\obj\Debug\netcoreapp3.1\10 MaximalSum.AssemblyInfo.cs
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\10 MaximalSum\obj\Debug\netcoreapp3.1\10 MaximalSum.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\10 MaximalSum\obj\Debug\netcoreapp3.1\10 MaximalSum.dll
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\10 MaximalSum\obj\Debug\netcoreapp3.1\10 MaximalSum.pdb
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\10 MaximalSum\obj\Debug\netcoreapp3.1\10 MaximalSum.genruntimeconfig.cache
