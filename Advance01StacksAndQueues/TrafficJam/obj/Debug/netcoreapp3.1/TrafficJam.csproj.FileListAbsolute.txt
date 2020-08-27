@@ -1,0 +1,12 @@
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\TrafficJam\bin\Debug\netcoreapp3.1\TrafficJam.exe
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\TrafficJam\bin\Debug\netcoreapp3.1\TrafficJam.deps.json
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\TrafficJam\bin\Debug\netcoreapp3.1\TrafficJam.runtimeconfig.json
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\TrafficJam\bin\Debug\netcoreapp3.1\TrafficJam.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\TrafficJam\bin\Debug\netcoreapp3.1\TrafficJam.dll
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\TrafficJam\bin\Debug\netcoreapp3.1\TrafficJam.pdb
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\TrafficJam\obj\Debug\netcoreapp3.1\TrafficJam.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\TrafficJam\obj\Debug\netcoreapp3.1\TrafficJam.AssemblyInfo.cs
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\TrafficJam\obj\Debug\netcoreapp3.1\TrafficJam.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\TrafficJam\obj\Debug\netcoreapp3.1\TrafficJam.dll
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\TrafficJam\obj\Debug\netcoreapp3.1\TrafficJam.pdb
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\TrafficJam\obj\Debug\netcoreapp3.1\TrafficJam.genruntimeconfig.cache

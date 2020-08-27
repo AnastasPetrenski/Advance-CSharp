@@ -1,0 +1,13 @@
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\StackSum\bin\Debug\netcoreapp3.1\StackSum.exe
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\StackSum\bin\Debug\netcoreapp3.1\StackSum.deps.json
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\StackSum\bin\Debug\netcoreapp3.1\StackSum.runtimeconfig.json
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\StackSum\bin\Debug\netcoreapp3.1\StackSum.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\StackSum\bin\Debug\netcoreapp3.1\StackSum.dll
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\StackSum\bin\Debug\netcoreapp3.1\StackSum.pdb
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\StackSum\obj\Debug\netcoreapp3.1\StackSum.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\StackSum\obj\Debug\netcoreapp3.1\StackSum.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\StackSum\obj\Debug\netcoreapp3.1\StackSum.AssemblyInfo.cs
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\StackSum\obj\Debug\netcoreapp3.1\StackSum.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\StackSum\obj\Debug\netcoreapp3.1\StackSum.dll
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\StackSum\obj\Debug\netcoreapp3.1\StackSum.pdb
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\StackSum\obj\Debug\netcoreapp3.1\StackSum.genruntimeconfig.cache

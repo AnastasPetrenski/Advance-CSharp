@@ -1,0 +1,13 @@
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\ReverseStrings\bin\Debug\netcoreapp3.1\ReverseStrings.exe
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\ReverseStrings\bin\Debug\netcoreapp3.1\ReverseStrings.deps.json
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\ReverseStrings\bin\Debug\netcoreapp3.1\ReverseStrings.runtimeconfig.json
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\ReverseStrings\bin\Debug\netcoreapp3.1\ReverseStrings.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\ReverseStrings\bin\Debug\netcoreapp3.1\ReverseStrings.dll
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\ReverseStrings\bin\Debug\netcoreapp3.1\ReverseStrings.pdb
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\ReverseStrings\obj\Debug\netcoreapp3.1\ReverseStrings.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\ReverseStrings\obj\Debug\netcoreapp3.1\ReverseStrings.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\ReverseStrings\obj\Debug\netcoreapp3.1\ReverseStrings.AssemblyInfo.cs
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\ReverseStrings\obj\Debug\netcoreapp3.1\ReverseStrings.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\ReverseStrings\obj\Debug\netcoreapp3.1\ReverseStrings.dll
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\ReverseStrings\obj\Debug\netcoreapp3.1\ReverseStrings.pdb
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\ReverseStrings\obj\Debug\netcoreapp3.1\ReverseStrings.genruntimeconfig.cache

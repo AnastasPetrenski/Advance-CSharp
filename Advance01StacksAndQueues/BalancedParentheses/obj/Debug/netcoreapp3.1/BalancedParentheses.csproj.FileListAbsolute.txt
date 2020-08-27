@@ -1,0 +1,13 @@
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\BalancedParentheses\bin\Debug\netcoreapp3.1\BalancedParentheses.exe
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\BalancedParentheses\bin\Debug\netcoreapp3.1\BalancedParentheses.deps.json
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\BalancedParentheses\bin\Debug\netcoreapp3.1\BalancedParentheses.runtimeconfig.json
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\BalancedParentheses\bin\Debug\netcoreapp3.1\BalancedParentheses.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\BalancedParentheses\bin\Debug\netcoreapp3.1\BalancedParentheses.dll
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\BalancedParentheses\bin\Debug\netcoreapp3.1\BalancedParentheses.pdb
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\BalancedParentheses\obj\Debug\netcoreapp3.1\BalancedParentheses.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\BalancedParentheses\obj\Debug\netcoreapp3.1\BalancedParentheses.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\BalancedParentheses\obj\Debug\netcoreapp3.1\BalancedParentheses.AssemblyInfo.cs
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\BalancedParentheses\obj\Debug\netcoreapp3.1\BalancedParentheses.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\BalancedParentheses\obj\Debug\netcoreapp3.1\BalancedParentheses.dll
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\BalancedParentheses\obj\Debug\netcoreapp3.1\BalancedParentheses.pdb
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\BalancedParentheses\obj\Debug\netcoreapp3.1\BalancedParentheses.genruntimeconfig.cache

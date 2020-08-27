@@ -1,0 +1,13 @@
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\Advance01StacksAndQueues\bin\Debug\netcoreapp3.1\Advance01StacksAndQueues.exe
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\Advance01StacksAndQueues\bin\Debug\netcoreapp3.1\Advance01StacksAndQueues.deps.json
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\Advance01StacksAndQueues\bin\Debug\netcoreapp3.1\Advance01StacksAndQueues.runtimeconfig.json
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\Advance01StacksAndQueues\bin\Debug\netcoreapp3.1\Advance01StacksAndQueues.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\Advance01StacksAndQueues\bin\Debug\netcoreapp3.1\Advance01StacksAndQueues.dll
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\Advance01StacksAndQueues\bin\Debug\netcoreapp3.1\Advance01StacksAndQueues.pdb
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\Advance01StacksAndQueues\obj\Debug\netcoreapp3.1\Advance01StacksAndQueues.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\Advance01StacksAndQueues\obj\Debug\netcoreapp3.1\Advance01StacksAndQueues.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\Advance01StacksAndQueues\obj\Debug\netcoreapp3.1\Advance01StacksAndQueues.AssemblyInfo.cs
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\Advance01StacksAndQueues\obj\Debug\netcoreapp3.1\Advance01StacksAndQueues.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\Advance01StacksAndQueues\obj\Debug\netcoreapp3.1\Advance01StacksAndQueues.dll
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\Advance01StacksAndQueues\obj\Debug\netcoreapp3.1\Advance01StacksAndQueues.pdb
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\Advance01StacksAndQueues\obj\Debug\netcoreapp3.1\Advance01StacksAndQueues.genruntimeconfig.cache

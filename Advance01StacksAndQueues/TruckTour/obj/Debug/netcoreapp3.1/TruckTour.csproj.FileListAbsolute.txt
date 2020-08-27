@@ -1,0 +1,13 @@
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\TruckTour\bin\Debug\netcoreapp3.1\TruckTour.exe
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\TruckTour\bin\Debug\netcoreapp3.1\TruckTour.deps.json
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\TruckTour\bin\Debug\netcoreapp3.1\TruckTour.runtimeconfig.json
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\TruckTour\bin\Debug\netcoreapp3.1\TruckTour.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\TruckTour\bin\Debug\netcoreapp3.1\TruckTour.dll
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\TruckTour\bin\Debug\netcoreapp3.1\TruckTour.pdb
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\TruckTour\obj\Debug\netcoreapp3.1\TruckTour.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\TruckTour\obj\Debug\netcoreapp3.1\TruckTour.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\TruckTour\obj\Debug\netcoreapp3.1\TruckTour.AssemblyInfo.cs
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\TruckTour\obj\Debug\netcoreapp3.1\TruckTour.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\TruckTour\obj\Debug\netcoreapp3.1\TruckTour.dll
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\TruckTour\obj\Debug\netcoreapp3.1\TruckTour.pdb
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\TruckTour\obj\Debug\netcoreapp3.1\TruckTour.genruntimeconfig.cache

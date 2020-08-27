@@ -1,0 +1,13 @@
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\MaximumAndMinumumElemet\bin\Debug\netcoreapp3.1\MaximumAndMinumumElemet.exe
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\MaximumAndMinumumElemet\bin\Debug\netcoreapp3.1\MaximumAndMinumumElemet.deps.json
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\MaximumAndMinumumElemet\bin\Debug\netcoreapp3.1\MaximumAndMinumumElemet.runtimeconfig.json
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\MaximumAndMinumumElemet\bin\Debug\netcoreapp3.1\MaximumAndMinumumElemet.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\MaximumAndMinumumElemet\bin\Debug\netcoreapp3.1\MaximumAndMinumumElemet.dll
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\MaximumAndMinumumElemet\bin\Debug\netcoreapp3.1\MaximumAndMinumumElemet.pdb
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\MaximumAndMinumumElemet\obj\Debug\netcoreapp3.1\MaximumAndMinumumElemet.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\MaximumAndMinumumElemet\obj\Debug\netcoreapp3.1\MaximumAndMinumumElemet.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\MaximumAndMinumumElemet\obj\Debug\netcoreapp3.1\MaximumAndMinumumElemet.AssemblyInfo.cs
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\MaximumAndMinumumElemet\obj\Debug\netcoreapp3.1\MaximumAndMinumumElemet.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\MaximumAndMinumumElemet\obj\Debug\netcoreapp3.1\MaximumAndMinumumElemet.dll
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\MaximumAndMinumumElemet\obj\Debug\netcoreapp3.1\MaximumAndMinumumElemet.pdb
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\MaximumAndMinumumElemet\obj\Debug\netcoreapp3.1\MaximumAndMinumumElemet.genruntimeconfig.cache

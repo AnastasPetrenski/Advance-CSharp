@@ -1,0 +1,13 @@
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\BasicStackOperations\bin\Debug\netcoreapp3.1\BasicStackOperations.exe
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\BasicStackOperations\bin\Debug\netcoreapp3.1\BasicStackOperations.deps.json
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\BasicStackOperations\bin\Debug\netcoreapp3.1\BasicStackOperations.runtimeconfig.json
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\BasicStackOperations\bin\Debug\netcoreapp3.1\BasicStackOperations.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\BasicStackOperations\bin\Debug\netcoreapp3.1\BasicStackOperations.dll
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\BasicStackOperations\bin\Debug\netcoreapp3.1\BasicStackOperations.pdb
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\BasicStackOperations\obj\Debug\netcoreapp3.1\BasicStackOperations.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\BasicStackOperations\obj\Debug\netcoreapp3.1\BasicStackOperations.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\BasicStackOperations\obj\Debug\netcoreapp3.1\BasicStackOperations.AssemblyInfo.cs
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\BasicStackOperations\obj\Debug\netcoreapp3.1\BasicStackOperations.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\BasicStackOperations\obj\Debug\netcoreapp3.1\BasicStackOperations.dll
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\BasicStackOperations\obj\Debug\netcoreapp3.1\BasicStackOperations.pdb
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\BasicStackOperations\obj\Debug\netcoreapp3.1\BasicStackOperations.genruntimeconfig.cache

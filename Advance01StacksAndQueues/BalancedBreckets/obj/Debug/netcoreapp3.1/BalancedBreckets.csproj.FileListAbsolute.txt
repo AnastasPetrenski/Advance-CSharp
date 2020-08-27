@@ -1,0 +1,12 @@
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\BalancedBreckets\bin\Debug\netcoreapp3.1\BalancedBreckets.exe
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\BalancedBreckets\bin\Debug\netcoreapp3.1\BalancedBreckets.deps.json
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\BalancedBreckets\bin\Debug\netcoreapp3.1\BalancedBreckets.runtimeconfig.json
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\BalancedBreckets\bin\Debug\netcoreapp3.1\BalancedBreckets.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\BalancedBreckets\bin\Debug\netcoreapp3.1\BalancedBreckets.dll
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\BalancedBreckets\bin\Debug\netcoreapp3.1\BalancedBreckets.pdb
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\BalancedBreckets\obj\Debug\netcoreapp3.1\BalancedBreckets.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\BalancedBreckets\obj\Debug\netcoreapp3.1\BalancedBreckets.AssemblyInfo.cs
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\BalancedBreckets\obj\Debug\netcoreapp3.1\BalancedBreckets.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\BalancedBreckets\obj\Debug\netcoreapp3.1\BalancedBreckets.dll
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\BalancedBreckets\obj\Debug\netcoreapp3.1\BalancedBreckets.pdb
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\BalancedBreckets\obj\Debug\netcoreapp3.1\BalancedBreckets.genruntimeconfig.cache

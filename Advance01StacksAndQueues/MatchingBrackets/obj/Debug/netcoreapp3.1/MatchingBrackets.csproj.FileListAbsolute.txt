@@ -1,0 +1,13 @@
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\MatchingBrackets\bin\Debug\netcoreapp3.1\MatchingBrackets.exe
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\MatchingBrackets\bin\Debug\netcoreapp3.1\MatchingBrackets.deps.json
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\MatchingBrackets\bin\Debug\netcoreapp3.1\MatchingBrackets.runtimeconfig.json
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\MatchingBrackets\bin\Debug\netcoreapp3.1\MatchingBrackets.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\MatchingBrackets\bin\Debug\netcoreapp3.1\MatchingBrackets.dll
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\MatchingBrackets\bin\Debug\netcoreapp3.1\MatchingBrackets.pdb
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\MatchingBrackets\obj\Debug\netcoreapp3.1\MatchingBrackets.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\MatchingBrackets\obj\Debug\netcoreapp3.1\MatchingBrackets.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\MatchingBrackets\obj\Debug\netcoreapp3.1\MatchingBrackets.AssemblyInfo.cs
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\MatchingBrackets\obj\Debug\netcoreapp3.1\MatchingBrackets.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\MatchingBrackets\obj\Debug\netcoreapp3.1\MatchingBrackets.dll
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\MatchingBrackets\obj\Debug\netcoreapp3.1\MatchingBrackets.pdb
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\MatchingBrackets\obj\Debug\netcoreapp3.1\MatchingBrackets.genruntimeconfig.cache

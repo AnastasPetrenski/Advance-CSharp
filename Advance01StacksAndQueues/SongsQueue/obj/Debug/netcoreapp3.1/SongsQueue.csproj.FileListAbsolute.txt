@@ -1,0 +1,13 @@
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\SongsQueue\bin\Debug\netcoreapp3.1\SongsQueue.exe
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\SongsQueue\bin\Debug\netcoreapp3.1\SongsQueue.deps.json
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\SongsQueue\bin\Debug\netcoreapp3.1\SongsQueue.runtimeconfig.json
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\SongsQueue\bin\Debug\netcoreapp3.1\SongsQueue.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\SongsQueue\bin\Debug\netcoreapp3.1\SongsQueue.dll
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\SongsQueue\bin\Debug\netcoreapp3.1\SongsQueue.pdb
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\SongsQueue\obj\Debug\netcoreapp3.1\SongsQueue.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\SongsQueue\obj\Debug\netcoreapp3.1\SongsQueue.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\SongsQueue\obj\Debug\netcoreapp3.1\SongsQueue.AssemblyInfo.cs
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\SongsQueue\obj\Debug\netcoreapp3.1\SongsQueue.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\SongsQueue\obj\Debug\netcoreapp3.1\SongsQueue.dll
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\SongsQueue\obj\Debug\netcoreapp3.1\SongsQueue.pdb
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\SongsQueue\obj\Debug\netcoreapp3.1\SongsQueue.genruntimeconfig.cache
