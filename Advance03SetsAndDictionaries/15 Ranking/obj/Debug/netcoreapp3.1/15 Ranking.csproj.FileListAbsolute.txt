@@ -1,0 +1,13 @@
+C:\Users\anastas\source\repos\Advance03SetsAndDictionaries\15 Ranking\obj\Debug\netcoreapp3.1\15 Ranking.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\Advance03SetsAndDictionaries\15 Ranking\obj\Debug\netcoreapp3.1\15 Ranking.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\Advance03SetsAndDictionaries\15 Ranking\obj\Debug\netcoreapp3.1\15 Ranking.AssemblyInfo.cs
+C:\Users\anastas\source\repos\Advance03SetsAndDictionaries\15 Ranking\obj\Debug\netcoreapp3.1\15 Ranking.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\Advance03SetsAndDictionaries\15 Ranking\bin\Debug\netcoreapp3.1\15 Ranking.exe
+C:\Users\anastas\source\repos\Advance03SetsAndDictionaries\15 Ranking\bin\Debug\netcoreapp3.1\15 Ranking.deps.json
+C:\Users\anastas\source\repos\Advance03SetsAndDictionaries\15 Ranking\bin\Debug\netcoreapp3.1\15 Ranking.runtimeconfig.json
+C:\Users\anastas\source\repos\Advance03SetsAndDictionaries\15 Ranking\bin\Debug\netcoreapp3.1\15 Ranking.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\Advance03SetsAndDictionaries\15 Ranking\bin\Debug\netcoreapp3.1\15 Ranking.dll
+C:\Users\anastas\source\repos\Advance03SetsAndDictionaries\15 Ranking\bin\Debug\netcoreapp3.1\15 Ranking.pdb
+C:\Users\anastas\source\repos\Advance03SetsAndDictionaries\15 Ranking\obj\Debug\netcoreapp3.1\15 Ranking.dll
+C:\Users\anastas\source\repos\Advance03SetsAndDictionaries\15 Ranking\obj\Debug\netcoreapp3.1\15 Ranking.pdb
+C:\Users\anastas\source\repos\Advance03SetsAndDictionaries\15 Ranking\obj\Debug\netcoreapp3.1\15 Ranking.genruntimeconfig.cache

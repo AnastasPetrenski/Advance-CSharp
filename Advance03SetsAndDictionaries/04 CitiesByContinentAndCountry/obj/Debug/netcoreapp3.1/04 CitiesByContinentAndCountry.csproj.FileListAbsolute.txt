@@ -1,0 +1,12 @@
+C:\Users\anastas\source\repos\Advance03SetsAndDictionaries\04 CitiesByContinentAndCountry\bin\Debug\netcoreapp3.1\04 CitiesByContinentAndCountry.exe
+C:\Users\anastas\source\repos\Advance03SetsAndDictionaries\04 CitiesByContinentAndCountry\bin\Debug\netcoreapp3.1\04 CitiesByContinentAndCountry.deps.json
+C:\Users\anastas\source\repos\Advance03SetsAndDictionaries\04 CitiesByContinentAndCountry\bin\Debug\netcoreapp3.1\04 CitiesByContinentAndCountry.runtimeconfig.json
+C:\Users\anastas\source\repos\Advance03SetsAndDictionaries\04 CitiesByContinentAndCountry\bin\Debug\netcoreapp3.1\04 CitiesByContinentAndCountry.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\Advance03SetsAndDictionaries\04 CitiesByContinentAndCountry\bin\Debug\netcoreapp3.1\04 CitiesByContinentAndCountry.dll
+C:\Users\anastas\source\repos\Advance03SetsAndDictionaries\04 CitiesByContinentAndCountry\bin\Debug\netcoreapp3.1\04 CitiesByContinentAndCountry.pdb
+C:\Users\anastas\source\repos\Advance03SetsAndDictionaries\04 CitiesByContinentAndCountry\obj\Debug\netcoreapp3.1\04 CitiesByContinentAndCountry.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\Advance03SetsAndDictionaries\04 CitiesByContinentAndCountry\obj\Debug\netcoreapp3.1\04 CitiesByContinentAndCountry.AssemblyInfo.cs
+C:\Users\anastas\source\repos\Advance03SetsAndDictionaries\04 CitiesByContinentAndCountry\obj\Debug\netcoreapp3.1\04 CitiesByContinentAndCountry.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\Advance03SetsAndDictionaries\04 CitiesByContinentAndCountry\obj\Debug\netcoreapp3.1\04 CitiesByContinentAndCountry.dll
+C:\Users\anastas\source\repos\Advance03SetsAndDictionaries\04 CitiesByContinentAndCountry\obj\Debug\netcoreapp3.1\04 CitiesByContinentAndCountry.pdb
+C:\Users\anastas\source\repos\Advance03SetsAndDictionaries\04 CitiesByContinentAndCountry\obj\Debug\netcoreapp3.1\04 CitiesByContinentAndCountry.genruntimeconfig.cache

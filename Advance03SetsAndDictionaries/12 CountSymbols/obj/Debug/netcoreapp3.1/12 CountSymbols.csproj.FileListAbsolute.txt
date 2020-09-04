@@ -1,0 +1,12 @@
+C:\Users\anastas\source\repos\Advance03SetsAndDictionaries\12 CountSymbols\bin\Debug\netcoreapp3.1\12 CountSymbols.exe
+C:\Users\anastas\source\repos\Advance03SetsAndDictionaries\12 CountSymbols\bin\Debug\netcoreapp3.1\12 CountSymbols.deps.json
+C:\Users\anastas\source\repos\Advance03SetsAndDictionaries\12 CountSymbols\bin\Debug\netcoreapp3.1\12 CountSymbols.runtimeconfig.json
+C:\Users\anastas\source\repos\Advance03SetsAndDictionaries\12 CountSymbols\bin\Debug\netcoreapp3.1\12 CountSymbols.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\Advance03SetsAndDictionaries\12 CountSymbols\bin\Debug\netcoreapp3.1\12 CountSymbols.dll
+C:\Users\anastas\source\repos\Advance03SetsAndDictionaries\12 CountSymbols\bin\Debug\netcoreapp3.1\12 CountSymbols.pdb
+C:\Users\anastas\source\repos\Advance03SetsAndDictionaries\12 CountSymbols\obj\Debug\netcoreapp3.1\12 CountSymbols.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\Advance03SetsAndDictionaries\12 CountSymbols\obj\Debug\netcoreapp3.1\12 CountSymbols.AssemblyInfo.cs
+C:\Users\anastas\source\repos\Advance03SetsAndDictionaries\12 CountSymbols\obj\Debug\netcoreapp3.1\12 CountSymbols.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\Advance03SetsAndDictionaries\12 CountSymbols\obj\Debug\netcoreapp3.1\12 CountSymbols.dll
+C:\Users\anastas\source\repos\Advance03SetsAndDictionaries\12 CountSymbols\obj\Debug\netcoreapp3.1\12 CountSymbols.pdb
+C:\Users\anastas\source\repos\Advance03SetsAndDictionaries\12 CountSymbols\obj\Debug\netcoreapp3.1\12 CountSymbols.genruntimeconfig.cache

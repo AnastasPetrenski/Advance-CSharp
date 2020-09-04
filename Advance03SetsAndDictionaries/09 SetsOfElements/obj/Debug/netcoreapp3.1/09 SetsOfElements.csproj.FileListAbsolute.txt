@@ -1,0 +1,13 @@
+C:\Users\anastas\source\repos\Advance03SetsAndDictionaries\09 SetsOfElements\bin\Debug\netcoreapp3.1\09 SetsOfElements.exe
+C:\Users\anastas\source\repos\Advance03SetsAndDictionaries\09 SetsOfElements\bin\Debug\netcoreapp3.1\09 SetsOfElements.deps.json
+C:\Users\anastas\source\repos\Advance03SetsAndDictionaries\09 SetsOfElements\bin\Debug\netcoreapp3.1\09 SetsOfElements.runtimeconfig.json
+C:\Users\anastas\source\repos\Advance03SetsAndDictionaries\09 SetsOfElements\bin\Debug\netcoreapp3.1\09 SetsOfElements.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\Advance03SetsAndDictionaries\09 SetsOfElements\bin\Debug\netcoreapp3.1\09 SetsOfElements.dll
+C:\Users\anastas\source\repos\Advance03SetsAndDictionaries\09 SetsOfElements\bin\Debug\netcoreapp3.1\09 SetsOfElements.pdb
+C:\Users\anastas\source\repos\Advance03SetsAndDictionaries\09 SetsOfElements\obj\Debug\netcoreapp3.1\09 SetsOfElements.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\Advance03SetsAndDictionaries\09 SetsOfElements\obj\Debug\netcoreapp3.1\09 SetsOfElements.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\Advance03SetsAndDictionaries\09 SetsOfElements\obj\Debug\netcoreapp3.1\09 SetsOfElements.AssemblyInfo.cs
+C:\Users\anastas\source\repos\Advance03SetsAndDictionaries\09 SetsOfElements\obj\Debug\netcoreapp3.1\09 SetsOfElements.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\Advance03SetsAndDictionaries\09 SetsOfElements\obj\Debug\netcoreapp3.1\09 SetsOfElements.dll
+C:\Users\anastas\source\repos\Advance03SetsAndDictionaries\09 SetsOfElements\obj\Debug\netcoreapp3.1\09 SetsOfElements.pdb
+C:\Users\anastas\source\repos\Advance03SetsAndDictionaries\09 SetsOfElements\obj\Debug\netcoreapp3.1\09 SetsOfElements.genruntimeconfig.cache

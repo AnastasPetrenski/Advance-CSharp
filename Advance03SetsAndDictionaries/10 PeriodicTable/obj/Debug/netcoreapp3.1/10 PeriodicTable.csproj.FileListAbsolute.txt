@@ -1,0 +1,12 @@
+C:\Users\anastas\source\repos\Advance03SetsAndDictionaries\10 PeriodicTable\bin\Debug\netcoreapp3.1\10 PeriodicTable.exe
+C:\Users\anastas\source\repos\Advance03SetsAndDictionaries\10 PeriodicTable\bin\Debug\netcoreapp3.1\10 PeriodicTable.deps.json
+C:\Users\anastas\source\repos\Advance03SetsAndDictionaries\10 PeriodicTable\bin\Debug\netcoreapp3.1\10 PeriodicTable.runtimeconfig.json
+C:\Users\anastas\source\repos\Advance03SetsAndDictionaries\10 PeriodicTable\bin\Debug\netcoreapp3.1\10 PeriodicTable.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\Advance03SetsAndDictionaries\10 PeriodicTable\bin\Debug\netcoreapp3.1\10 PeriodicTable.dll
+C:\Users\anastas\source\repos\Advance03SetsAndDictionaries\10 PeriodicTable\bin\Debug\netcoreapp3.1\10 PeriodicTable.pdb
+C:\Users\anastas\source\repos\Advance03SetsAndDictionaries\10 PeriodicTable\obj\Debug\netcoreapp3.1\10 PeriodicTable.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\Advance03SetsAndDictionaries\10 PeriodicTable\obj\Debug\netcoreapp3.1\10 PeriodicTable.AssemblyInfo.cs
+C:\Users\anastas\source\repos\Advance03SetsAndDictionaries\10 PeriodicTable\obj\Debug\netcoreapp3.1\10 PeriodicTable.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\Advance03SetsAndDictionaries\10 PeriodicTable\obj\Debug\netcoreapp3.1\10 PeriodicTable.dll
+C:\Users\anastas\source\repos\Advance03SetsAndDictionaries\10 PeriodicTable\obj\Debug\netcoreapp3.1\10 PeriodicTable.pdb
+C:\Users\anastas\source\repos\Advance03SetsAndDictionaries\10 PeriodicTable\obj\Debug\netcoreapp3.1\10 PeriodicTable.genruntimeconfig.cache

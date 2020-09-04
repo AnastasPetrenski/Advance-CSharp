@@ -1,0 +1,13 @@
+C:\Users\anastas\source\repos\Advance03SetsAndDictionaries\13 Wardrobe\bin\Debug\netcoreapp3.1\13 Wardrobe.exe
+C:\Users\anastas\source\repos\Advance03SetsAndDictionaries\13 Wardrobe\bin\Debug\netcoreapp3.1\13 Wardrobe.deps.json
+C:\Users\anastas\source\repos\Advance03SetsAndDictionaries\13 Wardrobe\bin\Debug\netcoreapp3.1\13 Wardrobe.runtimeconfig.json
+C:\Users\anastas\source\repos\Advance03SetsAndDictionaries\13 Wardrobe\bin\Debug\netcoreapp3.1\13 Wardrobe.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\Advance03SetsAndDictionaries\13 Wardrobe\bin\Debug\netcoreapp3.1\13 Wardrobe.dll
+C:\Users\anastas\source\repos\Advance03SetsAndDictionaries\13 Wardrobe\bin\Debug\netcoreapp3.1\13 Wardrobe.pdb
+C:\Users\anastas\source\repos\Advance03SetsAndDictionaries\13 Wardrobe\obj\Debug\netcoreapp3.1\13 Wardrobe.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\Advance03SetsAndDictionaries\13 Wardrobe\obj\Debug\netcoreapp3.1\13 Wardrobe.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\Advance03SetsAndDictionaries\13 Wardrobe\obj\Debug\netcoreapp3.1\13 Wardrobe.AssemblyInfo.cs
+C:\Users\anastas\source\repos\Advance03SetsAndDictionaries\13 Wardrobe\obj\Debug\netcoreapp3.1\13 Wardrobe.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\Advance03SetsAndDictionaries\13 Wardrobe\obj\Debug\netcoreapp3.1\13 Wardrobe.dll
+C:\Users\anastas\source\repos\Advance03SetsAndDictionaries\13 Wardrobe\obj\Debug\netcoreapp3.1\13 Wardrobe.pdb
+C:\Users\anastas\source\repos\Advance03SetsAndDictionaries\13 Wardrobe\obj\Debug\netcoreapp3.1\13 Wardrobe.genruntimeconfig.cache

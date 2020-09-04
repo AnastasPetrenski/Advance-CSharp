@@ -1,0 +1,13 @@
+C:\Users\anastas\source\repos\Advance03SetsAndDictionaries\14 TheVLogger\bin\Debug\netcoreapp3.1\14 TheVLogger.exe
+C:\Users\anastas\source\repos\Advance03SetsAndDictionaries\14 TheVLogger\bin\Debug\netcoreapp3.1\14 TheVLogger.deps.json
+C:\Users\anastas\source\repos\Advance03SetsAndDictionaries\14 TheVLogger\bin\Debug\netcoreapp3.1\14 TheVLogger.runtimeconfig.json
+C:\Users\anastas\source\repos\Advance03SetsAndDictionaries\14 TheVLogger\bin\Debug\netcoreapp3.1\14 TheVLogger.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\Advance03SetsAndDictionaries\14 TheVLogger\bin\Debug\netcoreapp3.1\14 TheVLogger.dll
+C:\Users\anastas\source\repos\Advance03SetsAndDictionaries\14 TheVLogger\bin\Debug\netcoreapp3.1\14 TheVLogger.pdb
+C:\Users\anastas\source\repos\Advance03SetsAndDictionaries\14 TheVLogger\obj\Debug\netcoreapp3.1\14 TheVLogger.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\Advance03SetsAndDictionaries\14 TheVLogger\obj\Debug\netcoreapp3.1\14 TheVLogger.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\Advance03SetsAndDictionaries\14 TheVLogger\obj\Debug\netcoreapp3.1\14 TheVLogger.AssemblyInfo.cs
+C:\Users\anastas\source\repos\Advance03SetsAndDictionaries\14 TheVLogger\obj\Debug\netcoreapp3.1\14 TheVLogger.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\Advance03SetsAndDictionaries\14 TheVLogger\obj\Debug\netcoreapp3.1\14 TheVLogger.dll
+C:\Users\anastas\source\repos\Advance03SetsAndDictionaries\14 TheVLogger\obj\Debug\netcoreapp3.1\14 TheVLogger.pdb
+C:\Users\anastas\source\repos\Advance03SetsAndDictionaries\14 TheVLogger\obj\Debug\netcoreapp3.1\14 TheVLogger.genruntimeconfig.cache
