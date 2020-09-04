@@ -1,0 +1,13 @@
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\17 RubikCube\bin\Debug\netcoreapp3.1\17 RubikCube.exe
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\17 RubikCube\bin\Debug\netcoreapp3.1\17 RubikCube.deps.json
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\17 RubikCube\bin\Debug\netcoreapp3.1\17 RubikCube.runtimeconfig.json
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\17 RubikCube\bin\Debug\netcoreapp3.1\17 RubikCube.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\17 RubikCube\bin\Debug\netcoreapp3.1\17 RubikCube.dll
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\17 RubikCube\bin\Debug\netcoreapp3.1\17 RubikCube.pdb
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\17 RubikCube\obj\Debug\netcoreapp3.1\17 RubikCube.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\17 RubikCube\obj\Debug\netcoreapp3.1\17 RubikCube.AssemblyInfo.cs
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\17 RubikCube\obj\Debug\netcoreapp3.1\17 RubikCube.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\17 RubikCube\obj\Debug\netcoreapp3.1\17 RubikCube.dll
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\17 RubikCube\obj\Debug\netcoreapp3.1\17 RubikCube.pdb
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\17 RubikCube\obj\Debug\netcoreapp3.1\17 RubikCube.genruntimeconfig.cache
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\17 RubikCube\obj\Debug\netcoreapp3.1\17 RubikCube.csprojAssemblyReference.cache

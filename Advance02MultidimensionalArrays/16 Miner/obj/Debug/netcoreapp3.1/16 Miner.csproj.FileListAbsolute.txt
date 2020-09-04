@@ -1,0 +1,13 @@
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\16 Miner\bin\Debug\netcoreapp3.1\16 Miner.exe
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\16 Miner\bin\Debug\netcoreapp3.1\16 Miner.deps.json
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\16 Miner\bin\Debug\netcoreapp3.1\16 Miner.runtimeconfig.json
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\16 Miner\bin\Debug\netcoreapp3.1\16 Miner.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\16 Miner\bin\Debug\netcoreapp3.1\16 Miner.dll
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\16 Miner\bin\Debug\netcoreapp3.1\16 Miner.pdb
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\16 Miner\obj\Debug\netcoreapp3.1\16 Miner.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\16 Miner\obj\Debug\netcoreapp3.1\16 Miner.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\16 Miner\obj\Debug\netcoreapp3.1\16 Miner.AssemblyInfo.cs
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\16 Miner\obj\Debug\netcoreapp3.1\16 Miner.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\16 Miner\obj\Debug\netcoreapp3.1\16 Miner.dll
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\16 Miner\obj\Debug\netcoreapp3.1\16 Miner.pdb
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\16 Miner\obj\Debug\netcoreapp3.1\16 Miner.genruntimeconfig.cache

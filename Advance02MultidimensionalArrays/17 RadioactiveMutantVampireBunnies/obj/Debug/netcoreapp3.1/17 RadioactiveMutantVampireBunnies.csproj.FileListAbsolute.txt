@@ -1,0 +1,13 @@
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\17 RadioactiveMutantVampireBunnies\bin\Debug\netcoreapp3.1\17 RadioactiveMutantVampireBunnies.exe
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\17 RadioactiveMutantVampireBunnies\bin\Debug\netcoreapp3.1\17 RadioactiveMutantVampireBunnies.deps.json
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\17 RadioactiveMutantVampireBunnies\bin\Debug\netcoreapp3.1\17 RadioactiveMutantVampireBunnies.runtimeconfig.json
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\17 RadioactiveMutantVampireBunnies\bin\Debug\netcoreapp3.1\17 RadioactiveMutantVampireBunnies.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\17 RadioactiveMutantVampireBunnies\bin\Debug\netcoreapp3.1\17 RadioactiveMutantVampireBunnies.dll
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\17 RadioactiveMutantVampireBunnies\bin\Debug\netcoreapp3.1\17 RadioactiveMutantVampireBunnies.pdb
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\17 RadioactiveMutantVampireBunnies\obj\Debug\netcoreapp3.1\17 RadioactiveMutantVampireBunnies.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\17 RadioactiveMutantVampireBunnies\obj\Debug\netcoreapp3.1\17 RadioactiveMutantVampireBunnies.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\17 RadioactiveMutantVampireBunnies\obj\Debug\netcoreapp3.1\17 RadioactiveMutantVampireBunnies.AssemblyInfo.cs
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\17 RadioactiveMutantVampireBunnies\obj\Debug\netcoreapp3.1\17 RadioactiveMutantVampireBunnies.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\17 RadioactiveMutantVampireBunnies\obj\Debug\netcoreapp3.1\17 RadioactiveMutantVampireBunnies.dll
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\17 RadioactiveMutantVampireBunnies\obj\Debug\netcoreapp3.1\17 RadioactiveMutantVampireBunnies.pdb
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\17 RadioactiveMutantVampireBunnies\obj\Debug\netcoreapp3.1\17 RadioactiveMutantVampireBunnies.genruntimeconfig.cache
