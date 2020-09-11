@@ -1,0 +1,14 @@
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\08 EvenNumbers\bin\Debug\netcoreapp3.1\text.txt
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\08 EvenNumbers\bin\Debug\netcoreapp3.1\08 EvenLines.exe
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\08 EvenNumbers\bin\Debug\netcoreapp3.1\08 EvenLines.deps.json
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\08 EvenNumbers\bin\Debug\netcoreapp3.1\08 EvenLines.runtimeconfig.json
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\08 EvenNumbers\bin\Debug\netcoreapp3.1\08 EvenLines.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\08 EvenNumbers\bin\Debug\netcoreapp3.1\08 EvenLines.dll
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\08 EvenNumbers\bin\Debug\netcoreapp3.1\08 EvenLines.pdb
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\08 EvenNumbers\obj\Debug\netcoreapp3.1\08 EvenLines.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\08 EvenNumbers\obj\Debug\netcoreapp3.1\08 EvenLines.AssemblyInfo.cs
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\08 EvenNumbers\obj\Debug\netcoreapp3.1\08 EvenLines.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\08 EvenNumbers\obj\Debug\netcoreapp3.1\08 EvenLines.dll
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\08 EvenNumbers\obj\Debug\netcoreapp3.1\08 EvenLines.pdb
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\08 EvenNumbers\obj\Debug\netcoreapp3.1\08 EvenLines.genruntimeconfig.cache
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\08 EvenNumbers\obj\Debug\netcoreapp3.1\08 EvenLines.csprojAssemblyReference.cache

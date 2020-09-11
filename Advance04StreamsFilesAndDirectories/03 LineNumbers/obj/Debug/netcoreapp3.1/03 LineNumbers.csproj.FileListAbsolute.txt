@@ -1,0 +1,14 @@
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\03 LineNumbers\bin\Debug\netcoreapp3.1\Text.txt
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\03 LineNumbers\bin\Debug\netcoreapp3.1\03 LineNumbers.exe
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\03 LineNumbers\bin\Debug\netcoreapp3.1\03 LineNumbers.deps.json
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\03 LineNumbers\bin\Debug\netcoreapp3.1\03 LineNumbers.runtimeconfig.json
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\03 LineNumbers\bin\Debug\netcoreapp3.1\03 LineNumbers.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\03 LineNumbers\bin\Debug\netcoreapp3.1\03 LineNumbers.dll
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\03 LineNumbers\bin\Debug\netcoreapp3.1\03 LineNumbers.pdb
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\03 LineNumbers\obj\Debug\netcoreapp3.1\03 LineNumbers.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\03 LineNumbers\obj\Debug\netcoreapp3.1\03 LineNumbers.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\03 LineNumbers\obj\Debug\netcoreapp3.1\03 LineNumbers.AssemblyInfo.cs
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\03 LineNumbers\obj\Debug\netcoreapp3.1\03 LineNumbers.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\03 LineNumbers\obj\Debug\netcoreapp3.1\03 LineNumbers.dll
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\03 LineNumbers\obj\Debug\netcoreapp3.1\03 LineNumbers.pdb
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\03 LineNumbers\obj\Debug\netcoreapp3.1\03 LineNumbers.genruntimeconfig.cache

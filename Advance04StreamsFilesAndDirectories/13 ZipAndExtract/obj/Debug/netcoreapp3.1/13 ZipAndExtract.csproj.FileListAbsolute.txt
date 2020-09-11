@@ -1,0 +1,13 @@
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\13 ZipAndExtract\bin\Debug\netcoreapp3.1\13 ZipAndExtract.exe
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\13 ZipAndExtract\bin\Debug\netcoreapp3.1\13 ZipAndExtract.deps.json
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\13 ZipAndExtract\bin\Debug\netcoreapp3.1\13 ZipAndExtract.runtimeconfig.json
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\13 ZipAndExtract\bin\Debug\netcoreapp3.1\13 ZipAndExtract.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\13 ZipAndExtract\bin\Debug\netcoreapp3.1\13 ZipAndExtract.dll
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\13 ZipAndExtract\bin\Debug\netcoreapp3.1\13 ZipAndExtract.pdb
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\13 ZipAndExtract\obj\Debug\netcoreapp3.1\13 ZipAndExtract.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\13 ZipAndExtract\obj\Debug\netcoreapp3.1\13 ZipAndExtract.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\13 ZipAndExtract\obj\Debug\netcoreapp3.1\13 ZipAndExtract.AssemblyInfo.cs
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\13 ZipAndExtract\obj\Debug\netcoreapp3.1\13 ZipAndExtract.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\13 ZipAndExtract\obj\Debug\netcoreapp3.1\13 ZipAndExtract.dll
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\13 ZipAndExtract\obj\Debug\netcoreapp3.1\13 ZipAndExtract.pdb
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\13 ZipAndExtract\obj\Debug\netcoreapp3.1\13 ZipAndExtract.genruntimeconfig.cache

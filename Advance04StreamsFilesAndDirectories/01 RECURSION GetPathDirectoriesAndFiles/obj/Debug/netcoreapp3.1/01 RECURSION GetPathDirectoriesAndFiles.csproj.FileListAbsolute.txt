@@ -1,0 +1,13 @@
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\01 RECURSION GetPathDirectoriesAndFiles\bin\Debug\netcoreapp3.1\01 RECURSION GetPathDirectoriesAndFiles.exe
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\01 RECURSION GetPathDirectoriesAndFiles\bin\Debug\netcoreapp3.1\01 RECURSION GetPathDirectoriesAndFiles.deps.json
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\01 RECURSION GetPathDirectoriesAndFiles\bin\Debug\netcoreapp3.1\01 RECURSION GetPathDirectoriesAndFiles.runtimeconfig.json
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\01 RECURSION GetPathDirectoriesAndFiles\bin\Debug\netcoreapp3.1\01 RECURSION GetPathDirectoriesAndFiles.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\01 RECURSION GetPathDirectoriesAndFiles\bin\Debug\netcoreapp3.1\01 RECURSION GetPathDirectoriesAndFiles.dll
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\01 RECURSION GetPathDirectoriesAndFiles\bin\Debug\netcoreapp3.1\01 RECURSION GetPathDirectoriesAndFiles.pdb
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\01 RECURSION GetPathDirectoriesAndFiles\obj\Debug\netcoreapp3.1\01 RECURSION GetPathDirectoriesAndFiles.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\01 RECURSION GetPathDirectoriesAndFiles\obj\Debug\netcoreapp3.1\01 RECURSION GetPathDirectoriesAndFiles.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\01 RECURSION GetPathDirectoriesAndFiles\obj\Debug\netcoreapp3.1\01 RECURSION GetPathDirectoriesAndFiles.AssemblyInfo.cs
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\01 RECURSION GetPathDirectoriesAndFiles\obj\Debug\netcoreapp3.1\01 RECURSION GetPathDirectoriesAndFiles.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\01 RECURSION GetPathDirectoriesAndFiles\obj\Debug\netcoreapp3.1\01 RECURSION GetPathDirectoriesAndFiles.dll
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\01 RECURSION GetPathDirectoriesAndFiles\obj\Debug\netcoreapp3.1\01 RECURSION GetPathDirectoriesAndFiles.pdb
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\01 RECURSION GetPathDirectoriesAndFiles\obj\Debug\netcoreapp3.1\01 RECURSION GetPathDirectoriesAndFiles.genruntimeconfig.cache

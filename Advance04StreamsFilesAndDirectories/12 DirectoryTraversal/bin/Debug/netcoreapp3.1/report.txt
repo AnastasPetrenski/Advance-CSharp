@@ -1,0 +1,17 @@
+.txt
+--words.txt - 0.016kb
+--expectedResult.txt - 0.027kb
+--text.txt - 0.120kb
+--report.txt - 0.429kb
+.json
+--12 DirectoryTraversal.runtimeconfig.json - 0.150kb
+--12 DirectoryTraversal.runtimeconfig.dev.json - 0.174kb
+--12 DirectoryTraversal.deps.json - 0.444kb
+.dll
+--12 DirectoryTraversal.dll - 7.500kb
+.exe
+--12 DirectoryTraversal.exe - 170.500kb
+.pdb
+--12 DirectoryTraversal.pdb - 10.074kb
+.png
+--copyMe.png - 9.136kb

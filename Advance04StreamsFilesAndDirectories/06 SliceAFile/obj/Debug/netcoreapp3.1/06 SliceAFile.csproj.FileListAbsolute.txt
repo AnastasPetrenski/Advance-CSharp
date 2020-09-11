@@ -1,0 +1,14 @@
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\06 SliceAFile\bin\Debug\netcoreapp3.1\Text.txt
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\06 SliceAFile\bin\Debug\netcoreapp3.1\06 SliceAFile.exe
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\06 SliceAFile\bin\Debug\netcoreapp3.1\06 SliceAFile.deps.json
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\06 SliceAFile\bin\Debug\netcoreapp3.1\06 SliceAFile.runtimeconfig.json
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\06 SliceAFile\bin\Debug\netcoreapp3.1\06 SliceAFile.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\06 SliceAFile\bin\Debug\netcoreapp3.1\06 SliceAFile.dll
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\06 SliceAFile\bin\Debug\netcoreapp3.1\06 SliceAFile.pdb
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\06 SliceAFile\obj\Debug\netcoreapp3.1\06 SliceAFile.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\06 SliceAFile\obj\Debug\netcoreapp3.1\06 SliceAFile.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\06 SliceAFile\obj\Debug\netcoreapp3.1\06 SliceAFile.AssemblyInfo.cs
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\06 SliceAFile\obj\Debug\netcoreapp3.1\06 SliceAFile.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\06 SliceAFile\obj\Debug\netcoreapp3.1\06 SliceAFile.dll
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\06 SliceAFile\obj\Debug\netcoreapp3.1\06 SliceAFile.pdb
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\06 SliceAFile\obj\Debug\netcoreapp3.1\06 SliceAFile.genruntimeconfig.cache

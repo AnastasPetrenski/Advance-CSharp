@@ -1,0 +1,15 @@
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\05 MergeFiles\bin\Debug\netcoreapp3.1\First.txt
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\05 MergeFiles\bin\Debug\netcoreapp3.1\Second.txt
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\05 MergeFiles\bin\Debug\netcoreapp3.1\05 MergeFiles.exe
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\05 MergeFiles\bin\Debug\netcoreapp3.1\05 MergeFiles.deps.json
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\05 MergeFiles\bin\Debug\netcoreapp3.1\05 MergeFiles.runtimeconfig.json
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\05 MergeFiles\bin\Debug\netcoreapp3.1\05 MergeFiles.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\05 MergeFiles\bin\Debug\netcoreapp3.1\05 MergeFiles.dll
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\05 MergeFiles\bin\Debug\netcoreapp3.1\05 MergeFiles.pdb
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\05 MergeFiles\obj\Debug\netcoreapp3.1\05 MergeFiles.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\05 MergeFiles\obj\Debug\netcoreapp3.1\05 MergeFiles.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\05 MergeFiles\obj\Debug\netcoreapp3.1\05 MergeFiles.AssemblyInfo.cs
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\05 MergeFiles\obj\Debug\netcoreapp3.1\05 MergeFiles.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\05 MergeFiles\obj\Debug\netcoreapp3.1\05 MergeFiles.dll
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\05 MergeFiles\obj\Debug\netcoreapp3.1\05 MergeFiles.pdb
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\05 MergeFiles\obj\Debug\netcoreapp3.1\05 MergeFiles.genruntimeconfig.cache

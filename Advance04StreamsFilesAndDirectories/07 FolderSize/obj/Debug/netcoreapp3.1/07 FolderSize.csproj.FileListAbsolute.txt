@@ -1,0 +1,12 @@
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\07 FolderSize\bin\Debug\netcoreapp3.1\07 FolderSize.exe
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\07 FolderSize\bin\Debug\netcoreapp3.1\07 FolderSize.deps.json
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\07 FolderSize\bin\Debug\netcoreapp3.1\07 FolderSize.runtimeconfig.json
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\07 FolderSize\bin\Debug\netcoreapp3.1\07 FolderSize.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\07 FolderSize\bin\Debug\netcoreapp3.1\07 FolderSize.dll
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\07 FolderSize\bin\Debug\netcoreapp3.1\07 FolderSize.pdb
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\07 FolderSize\obj\Debug\netcoreapp3.1\07 FolderSize.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\07 FolderSize\obj\Debug\netcoreapp3.1\07 FolderSize.AssemblyInfo.cs
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\07 FolderSize\obj\Debug\netcoreapp3.1\07 FolderSize.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\07 FolderSize\obj\Debug\netcoreapp3.1\07 FolderSize.dll
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\07 FolderSize\obj\Debug\netcoreapp3.1\07 FolderSize.pdb
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\07 FolderSize\obj\Debug\netcoreapp3.1\07 FolderSize.genruntimeconfig.cache

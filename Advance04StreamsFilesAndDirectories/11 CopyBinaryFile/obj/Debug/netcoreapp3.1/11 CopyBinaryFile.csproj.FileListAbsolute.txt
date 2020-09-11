@@ -1,0 +1,14 @@
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\11 CopyBinaryFile\bin\Debug\netcoreapp3.1\copyMe.png
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\11 CopyBinaryFile\bin\Debug\netcoreapp3.1\11 CopyBinaryFile.exe
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\11 CopyBinaryFile\bin\Debug\netcoreapp3.1\11 CopyBinaryFile.deps.json
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\11 CopyBinaryFile\bin\Debug\netcoreapp3.1\11 CopyBinaryFile.runtimeconfig.json
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\11 CopyBinaryFile\bin\Debug\netcoreapp3.1\11 CopyBinaryFile.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\11 CopyBinaryFile\bin\Debug\netcoreapp3.1\11 CopyBinaryFile.dll
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\11 CopyBinaryFile\bin\Debug\netcoreapp3.1\11 CopyBinaryFile.pdb
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\11 CopyBinaryFile\obj\Debug\netcoreapp3.1\11 CopyBinaryFile.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\11 CopyBinaryFile\obj\Debug\netcoreapp3.1\11 CopyBinaryFile.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\11 CopyBinaryFile\obj\Debug\netcoreapp3.1\11 CopyBinaryFile.AssemblyInfo.cs
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\11 CopyBinaryFile\obj\Debug\netcoreapp3.1\11 CopyBinaryFile.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\11 CopyBinaryFile\obj\Debug\netcoreapp3.1\11 CopyBinaryFile.dll
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\11 CopyBinaryFile\obj\Debug\netcoreapp3.1\11 CopyBinaryFile.pdb
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\11 CopyBinaryFile\obj\Debug\netcoreapp3.1\11 CopyBinaryFile.genruntimeconfig.cache

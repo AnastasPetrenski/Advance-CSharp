@@ -1,0 +1,13 @@
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\12 DirectoryTraversal\bin\Debug\netcoreapp3.1\12 DirectoryTraversal.exe
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\12 DirectoryTraversal\bin\Debug\netcoreapp3.1\12 DirectoryTraversal.deps.json
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\12 DirectoryTraversal\bin\Debug\netcoreapp3.1\12 DirectoryTraversal.runtimeconfig.json
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\12 DirectoryTraversal\bin\Debug\netcoreapp3.1\12 DirectoryTraversal.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\12 DirectoryTraversal\bin\Debug\netcoreapp3.1\12 DirectoryTraversal.dll
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\12 DirectoryTraversal\bin\Debug\netcoreapp3.1\12 DirectoryTraversal.pdb
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\12 DirectoryTraversal\obj\Debug\netcoreapp3.1\12 DirectoryTraversal.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\12 DirectoryTraversal\obj\Debug\netcoreapp3.1\12 DirectoryTraversal.AssemblyInfo.cs
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\12 DirectoryTraversal\obj\Debug\netcoreapp3.1\12 DirectoryTraversal.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\12 DirectoryTraversal\obj\Debug\netcoreapp3.1\12 DirectoryTraversal.dll
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\12 DirectoryTraversal\obj\Debug\netcoreapp3.1\12 DirectoryTraversal.pdb
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\12 DirectoryTraversal\obj\Debug\netcoreapp3.1\12 DirectoryTraversal.genruntimeconfig.cache
+C:\Users\anastas\source\repos\Advance04StreamsFilesAndDirectories\12 DirectoryTraversal\obj\Debug\netcoreapp3.1\12 DirectoryTraversal.csprojAssemblyReference.cache
