@@ -1,0 +1,13 @@
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\07 KnightsOfHonor\bin\Debug\netcoreapp3.1\07 KnightsOfHonor.exe
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\07 KnightsOfHonor\bin\Debug\netcoreapp3.1\07 KnightsOfHonor.deps.json
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\07 KnightsOfHonor\bin\Debug\netcoreapp3.1\07 KnightsOfHonor.runtimeconfig.json
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\07 KnightsOfHonor\bin\Debug\netcoreapp3.1\07 KnightsOfHonor.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\07 KnightsOfHonor\bin\Debug\netcoreapp3.1\07 KnightsOfHonor.dll
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\07 KnightsOfHonor\bin\Debug\netcoreapp3.1\07 KnightsOfHonor.pdb
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\07 KnightsOfHonor\obj\Debug\netcoreapp3.1\07 KnightsOfHonor.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\07 KnightsOfHonor\obj\Debug\netcoreapp3.1\07 KnightsOfHonor.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\07 KnightsOfHonor\obj\Debug\netcoreapp3.1\07 KnightsOfHonor.AssemblyInfo.cs
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\07 KnightsOfHonor\obj\Debug\netcoreapp3.1\07 KnightsOfHonor.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\07 KnightsOfHonor\obj\Debug\netcoreapp3.1\07 KnightsOfHonor.dll
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\07 KnightsOfHonor\obj\Debug\netcoreapp3.1\07 KnightsOfHonor.pdb
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\07 KnightsOfHonor\obj\Debug\netcoreapp3.1\07 KnightsOfHonor.genruntimeconfig.cache

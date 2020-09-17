@@ -1,0 +1,13 @@
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\09 FindEvensOrOdds\bin\Debug\netcoreapp3.1\09 FindEvensOrOdds.exe
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\09 FindEvensOrOdds\bin\Debug\netcoreapp3.1\09 FindEvensOrOdds.deps.json
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\09 FindEvensOrOdds\bin\Debug\netcoreapp3.1\09 FindEvensOrOdds.runtimeconfig.json
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\09 FindEvensOrOdds\bin\Debug\netcoreapp3.1\09 FindEvensOrOdds.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\09 FindEvensOrOdds\bin\Debug\netcoreapp3.1\09 FindEvensOrOdds.dll
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\09 FindEvensOrOdds\bin\Debug\netcoreapp3.1\09 FindEvensOrOdds.pdb
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\09 FindEvensOrOdds\obj\Debug\netcoreapp3.1\09 FindEvensOrOdds.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\09 FindEvensOrOdds\obj\Debug\netcoreapp3.1\09 FindEvensOrOdds.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\09 FindEvensOrOdds\obj\Debug\netcoreapp3.1\09 FindEvensOrOdds.AssemblyInfo.cs
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\09 FindEvensOrOdds\obj\Debug\netcoreapp3.1\09 FindEvensOrOdds.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\09 FindEvensOrOdds\obj\Debug\netcoreapp3.1\09 FindEvensOrOdds.dll
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\09 FindEvensOrOdds\obj\Debug\netcoreapp3.1\09 FindEvensOrOdds.pdb
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\09 FindEvensOrOdds\obj\Debug\netcoreapp3.1\09 FindEvensOrOdds.genruntimeconfig.cache

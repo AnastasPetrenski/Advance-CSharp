@@ -1,0 +1,13 @@
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\AdvanceTest\bin\Debug\netcoreapp3.1\AdvanceTest.exe
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\AdvanceTest\bin\Debug\netcoreapp3.1\AdvanceTest.deps.json
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\AdvanceTest\bin\Debug\netcoreapp3.1\AdvanceTest.runtimeconfig.json
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\AdvanceTest\bin\Debug\netcoreapp3.1\AdvanceTest.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\AdvanceTest\bin\Debug\netcoreapp3.1\AdvanceTest.dll
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\AdvanceTest\bin\Debug\netcoreapp3.1\AdvanceTest.pdb
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\AdvanceTest\obj\Debug\netcoreapp3.1\AdvanceTest.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\AdvanceTest\obj\Debug\netcoreapp3.1\AdvanceTest.AssemblyInfo.cs
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\AdvanceTest\obj\Debug\netcoreapp3.1\AdvanceTest.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\AdvanceTest\obj\Debug\netcoreapp3.1\AdvanceTest.dll
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\AdvanceTest\obj\Debug\netcoreapp3.1\AdvanceTest.pdb
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\AdvanceTest\obj\Debug\netcoreapp3.1\AdvanceTest.genruntimeconfig.cache
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\AdvanceTest\obj\Debug\netcoreapp3.1\AdvanceTest.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\16 PartyReservationFilterModule\bin\Debug\netcoreapp3.1\16 PartyReservationFilterModule.exe
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\16 PartyReservationFilterModule\bin\Debug\netcoreapp3.1\16 PartyReservationFilterModule.deps.json
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\16 PartyReservationFilterModule\bin\Debug\netcoreapp3.1\16 PartyReservationFilterModule.runtimeconfig.json
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\16 PartyReservationFilterModule\bin\Debug\netcoreapp3.1\16 PartyReservationFilterModule.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\16 PartyReservationFilterModule\bin\Debug\netcoreapp3.1\16 PartyReservationFilterModule.dll
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\16 PartyReservationFilterModule\bin\Debug\netcoreapp3.1\16 PartyReservationFilterModule.pdb
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\16 PartyReservationFilterModule\obj\Debug\netcoreapp3.1\16 PartyReservationFilterModule.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\16 PartyReservationFilterModule\obj\Debug\netcoreapp3.1\16 PartyReservationFilterModule.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\16 PartyReservationFilterModule\obj\Debug\netcoreapp3.1\16 PartyReservationFilterModule.AssemblyInfo.cs
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\16 PartyReservationFilterModule\obj\Debug\netcoreapp3.1\16 PartyReservationFilterModule.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\16 PartyReservationFilterModule\obj\Debug\netcoreapp3.1\16 PartyReservationFilterModule.dll
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\16 PartyReservationFilterModule\obj\Debug\netcoreapp3.1\16 PartyReservationFilterModule.pdb
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\16 PartyReservationFilterModule\obj\Debug\netcoreapp3.1\16 PartyReservationFilterModule.genruntimeconfig.cache

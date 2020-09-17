@@ -1,0 +1,13 @@
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\Advance05FunctionalProgramming\bin\Debug\netcoreapp3.1\Advance05FunctionalProgramming.exe
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\Advance05FunctionalProgramming\bin\Debug\netcoreapp3.1\Advance05FunctionalProgramming.deps.json
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\Advance05FunctionalProgramming\bin\Debug\netcoreapp3.1\Advance05FunctionalProgramming.runtimeconfig.json
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\Advance05FunctionalProgramming\bin\Debug\netcoreapp3.1\Advance05FunctionalProgramming.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\Advance05FunctionalProgramming\bin\Debug\netcoreapp3.1\Advance05FunctionalProgramming.dll
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\Advance05FunctionalProgramming\bin\Debug\netcoreapp3.1\Advance05FunctionalProgramming.pdb
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\Advance05FunctionalProgramming\obj\Debug\netcoreapp3.1\Advance05FunctionalProgramming.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\Advance05FunctionalProgramming\obj\Debug\netcoreapp3.1\Advance05FunctionalProgramming.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\Advance05FunctionalProgramming\obj\Debug\netcoreapp3.1\Advance05FunctionalProgramming.AssemblyInfo.cs
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\Advance05FunctionalProgramming\obj\Debug\netcoreapp3.1\Advance05FunctionalProgramming.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\Advance05FunctionalProgramming\obj\Debug\netcoreapp3.1\Advance05FunctionalProgramming.dll
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\Advance05FunctionalProgramming\obj\Debug\netcoreapp3.1\Advance05FunctionalProgramming.pdb
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\Advance05FunctionalProgramming\obj\Debug\netcoreapp3.1\Advance05FunctionalProgramming.genruntimeconfig.cache

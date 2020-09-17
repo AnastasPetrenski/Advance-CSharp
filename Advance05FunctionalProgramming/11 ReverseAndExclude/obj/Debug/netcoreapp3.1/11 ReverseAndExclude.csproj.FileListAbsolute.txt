@@ -1,0 +1,13 @@
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\11 ReverseAndExclude\bin\Debug\netcoreapp3.1\11 ReverseAndExclude.exe
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\11 ReverseAndExclude\bin\Debug\netcoreapp3.1\11 ReverseAndExclude.deps.json
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\11 ReverseAndExclude\bin\Debug\netcoreapp3.1\11 ReverseAndExclude.runtimeconfig.json
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\11 ReverseAndExclude\bin\Debug\netcoreapp3.1\11 ReverseAndExclude.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\11 ReverseAndExclude\bin\Debug\netcoreapp3.1\11 ReverseAndExclude.dll
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\11 ReverseAndExclude\bin\Debug\netcoreapp3.1\11 ReverseAndExclude.pdb
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\11 ReverseAndExclude\obj\Debug\netcoreapp3.1\11 ReverseAndExclude.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\11 ReverseAndExclude\obj\Debug\netcoreapp3.1\11 ReverseAndExclude.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\11 ReverseAndExclude\obj\Debug\netcoreapp3.1\11 ReverseAndExclude.AssemblyInfo.cs
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\11 ReverseAndExclude\obj\Debug\netcoreapp3.1\11 ReverseAndExclude.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\11 ReverseAndExclude\obj\Debug\netcoreapp3.1\11 ReverseAndExclude.dll
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\11 ReverseAndExclude\obj\Debug\netcoreapp3.1\11 ReverseAndExclude.pdb
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\11 ReverseAndExclude\obj\Debug\netcoreapp3.1\11 ReverseAndExclude.genruntimeconfig.cache

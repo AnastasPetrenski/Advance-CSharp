@@ -1,0 +1,12 @@
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\12 PredicateForNames\bin\Debug\netcoreapp3.1\12 PredicateForNames.exe
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\12 PredicateForNames\bin\Debug\netcoreapp3.1\12 PredicateForNames.deps.json
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\12 PredicateForNames\bin\Debug\netcoreapp3.1\12 PredicateForNames.runtimeconfig.json
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\12 PredicateForNames\bin\Debug\netcoreapp3.1\12 PredicateForNames.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\12 PredicateForNames\bin\Debug\netcoreapp3.1\12 PredicateForNames.dll
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\12 PredicateForNames\bin\Debug\netcoreapp3.1\12 PredicateForNames.pdb
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\12 PredicateForNames\obj\Debug\netcoreapp3.1\12 PredicateForNames.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\12 PredicateForNames\obj\Debug\netcoreapp3.1\12 PredicateForNames.AssemblyInfo.cs
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\12 PredicateForNames\obj\Debug\netcoreapp3.1\12 PredicateForNames.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\12 PredicateForNames\obj\Debug\netcoreapp3.1\12 PredicateForNames.dll
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\12 PredicateForNames\obj\Debug\netcoreapp3.1\12 PredicateForNames.pdb
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\12 PredicateForNames\obj\Debug\netcoreapp3.1\12 PredicateForNames.genruntimeconfig.cache

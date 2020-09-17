@@ -1,0 +1,13 @@
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\02 SumNumbers\bin\Debug\netcoreapp3.1\02 SumNumbers.exe
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\02 SumNumbers\bin\Debug\netcoreapp3.1\02 SumNumbers.deps.json
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\02 SumNumbers\bin\Debug\netcoreapp3.1\02 SumNumbers.runtimeconfig.json
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\02 SumNumbers\bin\Debug\netcoreapp3.1\02 SumNumbers.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\02 SumNumbers\bin\Debug\netcoreapp3.1\02 SumNumbers.dll
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\02 SumNumbers\bin\Debug\netcoreapp3.1\02 SumNumbers.pdb
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\02 SumNumbers\obj\Debug\netcoreapp3.1\02 SumNumbers.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\02 SumNumbers\obj\Debug\netcoreapp3.1\02 SumNumbers.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\02 SumNumbers\obj\Debug\netcoreapp3.1\02 SumNumbers.AssemblyInfo.cs
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\02 SumNumbers\obj\Debug\netcoreapp3.1\02 SumNumbers.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\02 SumNumbers\obj\Debug\netcoreapp3.1\02 SumNumbers.dll
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\02 SumNumbers\obj\Debug\netcoreapp3.1\02 SumNumbers.pdb
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\02 SumNumbers\obj\Debug\netcoreapp3.1\02 SumNumbers.genruntimeconfig.cache

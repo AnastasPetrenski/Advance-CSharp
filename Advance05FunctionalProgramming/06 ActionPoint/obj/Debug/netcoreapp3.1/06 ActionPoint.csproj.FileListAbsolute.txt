@@ -1,0 +1,13 @@
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\06 ActionPoint\bin\Debug\netcoreapp3.1\06 ActionPoint.exe
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\06 ActionPoint\bin\Debug\netcoreapp3.1\06 ActionPoint.deps.json
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\06 ActionPoint\bin\Debug\netcoreapp3.1\06 ActionPoint.runtimeconfig.json
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\06 ActionPoint\bin\Debug\netcoreapp3.1\06 ActionPoint.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\06 ActionPoint\bin\Debug\netcoreapp3.1\06 ActionPoint.dll
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\06 ActionPoint\bin\Debug\netcoreapp3.1\06 ActionPoint.pdb
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\06 ActionPoint\obj\Debug\netcoreapp3.1\06 ActionPoint.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\06 ActionPoint\obj\Debug\netcoreapp3.1\06 ActionPoint.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\06 ActionPoint\obj\Debug\netcoreapp3.1\06 ActionPoint.AssemblyInfo.cs
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\06 ActionPoint\obj\Debug\netcoreapp3.1\06 ActionPoint.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\06 ActionPoint\obj\Debug\netcoreapp3.1\06 ActionPoint.dll
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\06 ActionPoint\obj\Debug\netcoreapp3.1\06 ActionPoint.pdb
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\06 ActionPoint\obj\Debug\netcoreapp3.1\06 ActionPoint.genruntimeconfig.cache

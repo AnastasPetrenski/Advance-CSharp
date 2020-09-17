@@ -1,0 +1,13 @@
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\14 ListOfPredicates\bin\Debug\netcoreapp3.1\14 ListOfPredicates.exe
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\14 ListOfPredicates\bin\Debug\netcoreapp3.1\14 ListOfPredicates.deps.json
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\14 ListOfPredicates\bin\Debug\netcoreapp3.1\14 ListOfPredicates.runtimeconfig.json
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\14 ListOfPredicates\bin\Debug\netcoreapp3.1\14 ListOfPredicates.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\14 ListOfPredicates\bin\Debug\netcoreapp3.1\14 ListOfPredicates.dll
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\14 ListOfPredicates\bin\Debug\netcoreapp3.1\14 ListOfPredicates.pdb
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\14 ListOfPredicates\obj\Debug\netcoreapp3.1\14 ListOfPredicates.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\14 ListOfPredicates\obj\Debug\netcoreapp3.1\14 ListOfPredicates.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\14 ListOfPredicates\obj\Debug\netcoreapp3.1\14 ListOfPredicates.AssemblyInfo.cs
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\14 ListOfPredicates\obj\Debug\netcoreapp3.1\14 ListOfPredicates.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\14 ListOfPredicates\obj\Debug\netcoreapp3.1\14 ListOfPredicates.dll
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\14 ListOfPredicates\obj\Debug\netcoreapp3.1\14 ListOfPredicates.pdb
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\14 ListOfPredicates\obj\Debug\netcoreapp3.1\14 ListOfPredicates.genruntimeconfig.cache

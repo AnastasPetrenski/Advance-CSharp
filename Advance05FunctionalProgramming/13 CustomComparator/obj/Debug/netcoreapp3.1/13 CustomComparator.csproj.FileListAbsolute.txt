@@ -1,0 +1,13 @@
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\13 CustomComparator\obj\Debug\netcoreapp3.1\13 CustomComparator.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\13 CustomComparator\obj\Debug\netcoreapp3.1\13 CustomComparator.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\13 CustomComparator\obj\Debug\netcoreapp3.1\13 CustomComparator.AssemblyInfo.cs
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\13 CustomComparator\obj\Debug\netcoreapp3.1\13 CustomComparator.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\13 CustomComparator\bin\Debug\netcoreapp3.1\13 CustomComparator.exe
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\13 CustomComparator\bin\Debug\netcoreapp3.1\13 CustomComparator.deps.json
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\13 CustomComparator\bin\Debug\netcoreapp3.1\13 CustomComparator.runtimeconfig.json
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\13 CustomComparator\bin\Debug\netcoreapp3.1\13 CustomComparator.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\13 CustomComparator\bin\Debug\netcoreapp3.1\13 CustomComparator.dll
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\13 CustomComparator\bin\Debug\netcoreapp3.1\13 CustomComparator.pdb
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\13 CustomComparator\obj\Debug\netcoreapp3.1\13 CustomComparator.dll
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\13 CustomComparator\obj\Debug\netcoreapp3.1\13 CustomComparator.pdb
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\13 CustomComparator\obj\Debug\netcoreapp3.1\13 CustomComparator.genruntimeconfig.cache

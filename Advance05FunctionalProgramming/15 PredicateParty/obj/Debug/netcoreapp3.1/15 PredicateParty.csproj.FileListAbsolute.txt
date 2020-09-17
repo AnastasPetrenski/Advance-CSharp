@@ -1,0 +1,13 @@
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\15 PredicateParty\bin\Debug\netcoreapp3.1\15 PredicateParty.exe
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\15 PredicateParty\bin\Debug\netcoreapp3.1\15 PredicateParty.deps.json
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\15 PredicateParty\bin\Debug\netcoreapp3.1\15 PredicateParty.runtimeconfig.json
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\15 PredicateParty\bin\Debug\netcoreapp3.1\15 PredicateParty.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\15 PredicateParty\bin\Debug\netcoreapp3.1\15 PredicateParty.dll
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\15 PredicateParty\bin\Debug\netcoreapp3.1\15 PredicateParty.pdb
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\15 PredicateParty\obj\Debug\netcoreapp3.1\15 PredicateParty.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\15 PredicateParty\obj\Debug\netcoreapp3.1\15 PredicateParty.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\15 PredicateParty\obj\Debug\netcoreapp3.1\15 PredicateParty.AssemblyInfo.cs
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\15 PredicateParty\obj\Debug\netcoreapp3.1\15 PredicateParty.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\15 PredicateParty\obj\Debug\netcoreapp3.1\15 PredicateParty.dll
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\15 PredicateParty\obj\Debug\netcoreapp3.1\15 PredicateParty.pdb
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\15 PredicateParty\obj\Debug\netcoreapp3.1\15 PredicateParty.genruntimeconfig.cache

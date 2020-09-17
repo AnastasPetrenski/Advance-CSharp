@@ -1,0 +1,13 @@
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\10 AppliedArithmetics\bin\Debug\netcoreapp3.1\10 AppliedArithmetics.exe
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\10 AppliedArithmetics\bin\Debug\netcoreapp3.1\10 AppliedArithmetics.deps.json
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\10 AppliedArithmetics\bin\Debug\netcoreapp3.1\10 AppliedArithmetics.runtimeconfig.json
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\10 AppliedArithmetics\bin\Debug\netcoreapp3.1\10 AppliedArithmetics.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\10 AppliedArithmetics\bin\Debug\netcoreapp3.1\10 AppliedArithmetics.dll
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\10 AppliedArithmetics\bin\Debug\netcoreapp3.1\10 AppliedArithmetics.pdb
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\10 AppliedArithmetics\obj\Debug\netcoreapp3.1\10 AppliedArithmetics.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\10 AppliedArithmetics\obj\Debug\netcoreapp3.1\10 AppliedArithmetics.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\10 AppliedArithmetics\obj\Debug\netcoreapp3.1\10 AppliedArithmetics.AssemblyInfo.cs
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\10 AppliedArithmetics\obj\Debug\netcoreapp3.1\10 AppliedArithmetics.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\10 AppliedArithmetics\obj\Debug\netcoreapp3.1\10 AppliedArithmetics.dll
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\10 AppliedArithmetics\obj\Debug\netcoreapp3.1\10 AppliedArithmetics.pdb
+C:\Users\anastas\source\repos\Advance05FunctionalProgramming\10 AppliedArithmetics\obj\Debug\netcoreapp3.1\10 AppliedArithmetics.genruntimeconfig.cache
