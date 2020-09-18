@@ -1,0 +1,13 @@
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\CalculatorRPNShuntingYardAlgorithm\bin\Debug\netcoreapp3.1\CalculatorRPNShuntingYardAlgorithm.exe
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\CalculatorRPNShuntingYardAlgorithm\bin\Debug\netcoreapp3.1\CalculatorRPNShuntingYardAlgorithm.deps.json
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\CalculatorRPNShuntingYardAlgorithm\bin\Debug\netcoreapp3.1\CalculatorRPNShuntingYardAlgorithm.runtimeconfig.json
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\CalculatorRPNShuntingYardAlgorithm\bin\Debug\netcoreapp3.1\CalculatorRPNShuntingYardAlgorithm.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\CalculatorRPNShuntingYardAlgorithm\bin\Debug\netcoreapp3.1\CalculatorRPNShuntingYardAlgorithm.dll
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\CalculatorRPNShuntingYardAlgorithm\bin\Debug\netcoreapp3.1\CalculatorRPNShuntingYardAlgorithm.pdb
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\CalculatorRPNShuntingYardAlgorithm\obj\Debug\netcoreapp3.1\CalculatorRPNShuntingYardAlgorithm.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\CalculatorRPNShuntingYardAlgorithm\obj\Debug\netcoreapp3.1\CalculatorRPNShuntingYardAlgorithm.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\CalculatorRPNShuntingYardAlgorithm\obj\Debug\netcoreapp3.1\CalculatorRPNShuntingYardAlgorithm.AssemblyInfo.cs
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\CalculatorRPNShuntingYardAlgorithm\obj\Debug\netcoreapp3.1\CalculatorRPNShuntingYardAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\CalculatorRPNShuntingYardAlgorithm\obj\Debug\netcoreapp3.1\CalculatorRPNShuntingYardAlgorithm.dll
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\CalculatorRPNShuntingYardAlgorithm\obj\Debug\netcoreapp3.1\CalculatorRPNShuntingYardAlgorithm.pdb
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\CalculatorRPNShuntingYardAlgorithm\obj\Debug\netcoreapp3.1\CalculatorRPNShuntingYardAlgorithm.genruntimeconfig.cache
