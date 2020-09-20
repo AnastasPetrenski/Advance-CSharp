@@ -1,0 +1,13 @@
+C:\Users\anastas\source\repos\Advance00DebuggingLab\02 ArrayTest\bin\Debug\netcoreapp3.1\02 ArrayTest.exe
+C:\Users\anastas\source\repos\Advance00DebuggingLab\02 ArrayTest\bin\Debug\netcoreapp3.1\02 ArrayTest.deps.json
+C:\Users\anastas\source\repos\Advance00DebuggingLab\02 ArrayTest\bin\Debug\netcoreapp3.1\02 ArrayTest.runtimeconfig.json
+C:\Users\anastas\source\repos\Advance00DebuggingLab\02 ArrayTest\bin\Debug\netcoreapp3.1\02 ArrayTest.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\Advance00DebuggingLab\02 ArrayTest\bin\Debug\netcoreapp3.1\02 ArrayTest.dll
+C:\Users\anastas\source\repos\Advance00DebuggingLab\02 ArrayTest\bin\Debug\netcoreapp3.1\02 ArrayTest.pdb
+C:\Users\anastas\source\repos\Advance00DebuggingLab\02 ArrayTest\obj\Debug\netcoreapp3.1\02 ArrayTest.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\Advance00DebuggingLab\02 ArrayTest\obj\Debug\netcoreapp3.1\02 ArrayTest.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\Advance00DebuggingLab\02 ArrayTest\obj\Debug\netcoreapp3.1\02 ArrayTest.AssemblyInfo.cs
+C:\Users\anastas\source\repos\Advance00DebuggingLab\02 ArrayTest\obj\Debug\netcoreapp3.1\02 ArrayTest.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\Advance00DebuggingLab\02 ArrayTest\obj\Debug\netcoreapp3.1\02 ArrayTest.dll
+C:\Users\anastas\source\repos\Advance00DebuggingLab\02 ArrayTest\obj\Debug\netcoreapp3.1\02 ArrayTest.pdb
+C:\Users\anastas\source\repos\Advance00DebuggingLab\02 ArrayTest\obj\Debug\netcoreapp3.1\02 ArrayTest.genruntimeconfig.cache

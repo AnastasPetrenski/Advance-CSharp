@@ -1,0 +1,13 @@
+C:\Users\anastas\source\repos\Advance00DebuggingLab\04 DebuggingBitCarousel\bin\Debug\netcoreapp3.1\04 DebuggingBitCarousel.exe
+C:\Users\anastas\source\repos\Advance00DebuggingLab\04 DebuggingBitCarousel\bin\Debug\netcoreapp3.1\04 DebuggingBitCarousel.deps.json
+C:\Users\anastas\source\repos\Advance00DebuggingLab\04 DebuggingBitCarousel\bin\Debug\netcoreapp3.1\04 DebuggingBitCarousel.runtimeconfig.json
+C:\Users\anastas\source\repos\Advance00DebuggingLab\04 DebuggingBitCarousel\bin\Debug\netcoreapp3.1\04 DebuggingBitCarousel.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\Advance00DebuggingLab\04 DebuggingBitCarousel\bin\Debug\netcoreapp3.1\04 DebuggingBitCarousel.dll
+C:\Users\anastas\source\repos\Advance00DebuggingLab\04 DebuggingBitCarousel\bin\Debug\netcoreapp3.1\04 DebuggingBitCarousel.pdb
+C:\Users\anastas\source\repos\Advance00DebuggingLab\04 DebuggingBitCarousel\obj\Debug\netcoreapp3.1\04 DebuggingBitCarousel.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\Advance00DebuggingLab\04 DebuggingBitCarousel\obj\Debug\netcoreapp3.1\04 DebuggingBitCarousel.AssemblyInfo.cs
+C:\Users\anastas\source\repos\Advance00DebuggingLab\04 DebuggingBitCarousel\obj\Debug\netcoreapp3.1\04 DebuggingBitCarousel.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\Advance00DebuggingLab\04 DebuggingBitCarousel\obj\Debug\netcoreapp3.1\04 DebuggingBitCarousel.dll
+C:\Users\anastas\source\repos\Advance00DebuggingLab\04 DebuggingBitCarousel\obj\Debug\netcoreapp3.1\04 DebuggingBitCarousel.pdb
+C:\Users\anastas\source\repos\Advance00DebuggingLab\04 DebuggingBitCarousel\obj\Debug\netcoreapp3.1\04 DebuggingBitCarousel.genruntimeconfig.cache
+C:\Users\anastas\source\repos\Advance00DebuggingLab\04 DebuggingBitCarousel\obj\Debug\netcoreapp3.1\04 DebuggingBitCarousel.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\anastas\source\repos\Advance00DebuggingLab\01 BePositive\bin\Debug\netcoreapp3.1\01 BePositive.exe
+C:\Users\anastas\source\repos\Advance00DebuggingLab\01 BePositive\bin\Debug\netcoreapp3.1\01 BePositive.deps.json
+C:\Users\anastas\source\repos\Advance00DebuggingLab\01 BePositive\bin\Debug\netcoreapp3.1\01 BePositive.runtimeconfig.json
+C:\Users\anastas\source\repos\Advance00DebuggingLab\01 BePositive\bin\Debug\netcoreapp3.1\01 BePositive.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\Advance00DebuggingLab\01 BePositive\bin\Debug\netcoreapp3.1\01 BePositive.dll
+C:\Users\anastas\source\repos\Advance00DebuggingLab\01 BePositive\bin\Debug\netcoreapp3.1\01 BePositive.pdb
+C:\Users\anastas\source\repos\Advance00DebuggingLab\01 BePositive\obj\Debug\netcoreapp3.1\01 BePositive.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\Advance00DebuggingLab\01 BePositive\obj\Debug\netcoreapp3.1\01 BePositive.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\Advance00DebuggingLab\01 BePositive\obj\Debug\netcoreapp3.1\01 BePositive.AssemblyInfo.cs
+C:\Users\anastas\source\repos\Advance00DebuggingLab\01 BePositive\obj\Debug\netcoreapp3.1\01 BePositive.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\Advance00DebuggingLab\01 BePositive\obj\Debug\netcoreapp3.1\01 BePositive.dll
+C:\Users\anastas\source\repos\Advance00DebuggingLab\01 BePositive\obj\Debug\netcoreapp3.1\01 BePositive.pdb
+C:\Users\anastas\source\repos\Advance00DebuggingLab\01 BePositive\obj\Debug\netcoreapp3.1\01 BePositive.genruntimeconfig.cache

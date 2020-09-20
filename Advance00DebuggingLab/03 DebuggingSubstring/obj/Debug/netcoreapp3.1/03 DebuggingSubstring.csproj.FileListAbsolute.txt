@@ -1,0 +1,13 @@
+C:\Users\anastas\source\repos\Advance00DebuggingLab\03 DebuggingSubstring\bin\Debug\netcoreapp3.1\03 DebuggingSubstring.exe
+C:\Users\anastas\source\repos\Advance00DebuggingLab\03 DebuggingSubstring\bin\Debug\netcoreapp3.1\03 DebuggingSubstring.deps.json
+C:\Users\anastas\source\repos\Advance00DebuggingLab\03 DebuggingSubstring\bin\Debug\netcoreapp3.1\03 DebuggingSubstring.runtimeconfig.json
+C:\Users\anastas\source\repos\Advance00DebuggingLab\03 DebuggingSubstring\bin\Debug\netcoreapp3.1\03 DebuggingSubstring.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\Advance00DebuggingLab\03 DebuggingSubstring\bin\Debug\netcoreapp3.1\03 DebuggingSubstring.dll
+C:\Users\anastas\source\repos\Advance00DebuggingLab\03 DebuggingSubstring\bin\Debug\netcoreapp3.1\03 DebuggingSubstring.pdb
+C:\Users\anastas\source\repos\Advance00DebuggingLab\03 DebuggingSubstring\obj\Debug\netcoreapp3.1\03 DebuggingSubstring.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\Advance00DebuggingLab\03 DebuggingSubstring\obj\Debug\netcoreapp3.1\03 DebuggingSubstring.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\Advance00DebuggingLab\03 DebuggingSubstring\obj\Debug\netcoreapp3.1\03 DebuggingSubstring.AssemblyInfo.cs
+C:\Users\anastas\source\repos\Advance00DebuggingLab\03 DebuggingSubstring\obj\Debug\netcoreapp3.1\03 DebuggingSubstring.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\Advance00DebuggingLab\03 DebuggingSubstring\obj\Debug\netcoreapp3.1\03 DebuggingSubstring.dll
+C:\Users\anastas\source\repos\Advance00DebuggingLab\03 DebuggingSubstring\obj\Debug\netcoreapp3.1\03 DebuggingSubstring.pdb
+C:\Users\anastas\source\repos\Advance00DebuggingLab\03 DebuggingSubstring\obj\Debug\netcoreapp3.1\03 DebuggingSubstring.genruntimeconfig.cache
