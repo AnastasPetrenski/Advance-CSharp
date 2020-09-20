@@ -1,0 +1,13 @@
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\20 PrintSnakeMatrix\bin\Debug\netcoreapp3.1\20 PrintSnakeMatrix.exe
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\20 PrintSnakeMatrix\bin\Debug\netcoreapp3.1\20 PrintSnakeMatrix.deps.json
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\20 PrintSnakeMatrix\bin\Debug\netcoreapp3.1\20 PrintSnakeMatrix.runtimeconfig.json
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\20 PrintSnakeMatrix\bin\Debug\netcoreapp3.1\20 PrintSnakeMatrix.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\20 PrintSnakeMatrix\bin\Debug\netcoreapp3.1\20 PrintSnakeMatrix.dll
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\20 PrintSnakeMatrix\bin\Debug\netcoreapp3.1\20 PrintSnakeMatrix.pdb
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\20 PrintSnakeMatrix\obj\Debug\netcoreapp3.1\20 PrintSnakeMatrix.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\20 PrintSnakeMatrix\obj\Debug\netcoreapp3.1\20 PrintSnakeMatrix.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\20 PrintSnakeMatrix\obj\Debug\netcoreapp3.1\20 PrintSnakeMatrix.AssemblyInfo.cs
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\20 PrintSnakeMatrix\obj\Debug\netcoreapp3.1\20 PrintSnakeMatrix.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\20 PrintSnakeMatrix\obj\Debug\netcoreapp3.1\20 PrintSnakeMatrix.dll
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\20 PrintSnakeMatrix\obj\Debug\netcoreapp3.1\20 PrintSnakeMatrix.pdb
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\20 PrintSnakeMatrix\obj\Debug\netcoreapp3.1\20 PrintSnakeMatrix.genruntimeconfig.cache

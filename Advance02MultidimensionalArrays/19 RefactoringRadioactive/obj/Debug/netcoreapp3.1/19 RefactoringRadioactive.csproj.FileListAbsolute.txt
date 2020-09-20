@@ -1,0 +1,13 @@
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\19 RefactoringRadioactive\bin\Debug\netcoreapp3.1\19 RefactoringRadioactive.exe
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\19 RefactoringRadioactive\bin\Debug\netcoreapp3.1\19 RefactoringRadioactive.deps.json
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\19 RefactoringRadioactive\bin\Debug\netcoreapp3.1\19 RefactoringRadioactive.runtimeconfig.json
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\19 RefactoringRadioactive\bin\Debug\netcoreapp3.1\19 RefactoringRadioactive.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\19 RefactoringRadioactive\bin\Debug\netcoreapp3.1\19 RefactoringRadioactive.dll
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\19 RefactoringRadioactive\bin\Debug\netcoreapp3.1\19 RefactoringRadioactive.pdb
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\19 RefactoringRadioactive\obj\Debug\netcoreapp3.1\19 RefactoringRadioactive.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\19 RefactoringRadioactive\obj\Debug\netcoreapp3.1\19 RefactoringRadioactive.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\19 RefactoringRadioactive\obj\Debug\netcoreapp3.1\19 RefactoringRadioactive.AssemblyInfo.cs
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\19 RefactoringRadioactive\obj\Debug\netcoreapp3.1\19 RefactoringRadioactive.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\19 RefactoringRadioactive\obj\Debug\netcoreapp3.1\19 RefactoringRadioactive.dll
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\19 RefactoringRadioactive\obj\Debug\netcoreapp3.1\19 RefactoringRadioactive.pdb
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\19 RefactoringRadioactive\obj\Debug\netcoreapp3.1\19 RefactoringRadioactive.genruntimeconfig.cache
