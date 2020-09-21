@@ -1,0 +1,12 @@
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\MaximumElement\bin\Debug\netcoreapp3.1\MaximumElement.exe
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\MaximumElement\bin\Debug\netcoreapp3.1\MaximumElement.deps.json
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\MaximumElement\bin\Debug\netcoreapp3.1\MaximumElement.runtimeconfig.json
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\MaximumElement\bin\Debug\netcoreapp3.1\MaximumElement.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\MaximumElement\bin\Debug\netcoreapp3.1\MaximumElement.dll
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\MaximumElement\bin\Debug\netcoreapp3.1\MaximumElement.pdb
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\MaximumElement\obj\Debug\netcoreapp3.1\MaximumElement.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\MaximumElement\obj\Debug\netcoreapp3.1\MaximumElement.AssemblyInfo.cs
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\MaximumElement\obj\Debug\netcoreapp3.1\MaximumElement.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\MaximumElement\obj\Debug\netcoreapp3.1\MaximumElement.dll
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\MaximumElement\obj\Debug\netcoreapp3.1\MaximumElement.pdb
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\MaximumElement\obj\Debug\netcoreapp3.1\MaximumElement.genruntimeconfig.cache

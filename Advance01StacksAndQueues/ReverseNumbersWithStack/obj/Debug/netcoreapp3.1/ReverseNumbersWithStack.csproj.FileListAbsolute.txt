@@ -1,0 +1,12 @@
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\ReverseNumbersWithStack\bin\Debug\netcoreapp3.1\ReverseNumbersWithStack.exe
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\ReverseNumbersWithStack\bin\Debug\netcoreapp3.1\ReverseNumbersWithStack.deps.json
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\ReverseNumbersWithStack\bin\Debug\netcoreapp3.1\ReverseNumbersWithStack.runtimeconfig.json
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\ReverseNumbersWithStack\bin\Debug\netcoreapp3.1\ReverseNumbersWithStack.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\ReverseNumbersWithStack\bin\Debug\netcoreapp3.1\ReverseNumbersWithStack.dll
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\ReverseNumbersWithStack\bin\Debug\netcoreapp3.1\ReverseNumbersWithStack.pdb
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\ReverseNumbersWithStack\obj\Debug\netcoreapp3.1\ReverseNumbersWithStack.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\ReverseNumbersWithStack\obj\Debug\netcoreapp3.1\ReverseNumbersWithStack.AssemblyInfo.cs
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\ReverseNumbersWithStack\obj\Debug\netcoreapp3.1\ReverseNumbersWithStack.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\ReverseNumbersWithStack\obj\Debug\netcoreapp3.1\ReverseNumbersWithStack.dll
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\ReverseNumbersWithStack\obj\Debug\netcoreapp3.1\ReverseNumbersWithStack.pdb
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\ReverseNumbersWithStack\obj\Debug\netcoreapp3.1\ReverseNumbersWithStack.genruntimeconfig.cache

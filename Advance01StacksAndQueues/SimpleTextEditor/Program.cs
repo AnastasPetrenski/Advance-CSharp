@@ -2,40 +2,45 @@
 {
     using System;
     using System.Collections.Generic;
+    using System.Linq;
+    using System.Text;
 
     public class Program
     {
         public static void Main(string[] args)
         {
-            int n = int.Parse(Console.ReadLine());
+            StringBuilder text = new StringBuilder();
+            Stack<string> orderOfCommands = new Stack<string>();
+            int numberOfCommandsInput = int.Parse(Console.ReadLine());
 
-            Stack<string> previousCommands = new Stack<string>();   
-
-            string text = string.Empty;
-
-            for (int i = 0; i < n; i++)
+            for (int i = 0; i < numberOfCommandsInput; i++)
             {
-                string[] commands = Console.ReadLine()
-                                .Split(new char[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
-                switch (commands[0])
+                string[] commands = Console
+                    .ReadLine()
+                    .Split(" ", StringSplitOptions.RemoveEmptyEntries)
+                    .ToArray();
+
+
+                if (commands[0] == "1")
                 {
-                    case "1":
-                        previousCommands.Push(text);
-                        text += commands[1];
-                        break;
-
-                    case "2":
-                        previousCommands.Push(text);
-                        text = text.Substring(0, text.Length - int.Parse(commands[1]));
-                        break;
-
-                    case "3":
-                        Console.WriteLine(text[int.Parse(commands[1]) - 1]);
-                        break;
-
-                    case "4":
-                        text = previousCommands.Pop();
-                        break;
+                    orderOfCommands.Push(text.ToString());
+                    text.Append(commands[1]);
+                }
+                else if (commands[0] == "2")
+                {
+                    orderOfCommands.Push(text.ToString());
+                    text.Remove(text.Length - int.Parse(commands[1]), int.Parse(commands[1]));
+                }
+                else if (commands[0] == "3")
+                {
+                    string element = text.ToString();
+                    Console.WriteLine(element[int.Parse(commands[1]) - 1]);
+                }
+                else if (commands[0] == "4")
+                {
+                    text.Clear();
+                    text.Append(orderOfCommands.Pop());
+                    orderOfCommands.TrimExcess();
                 }
             }
         }

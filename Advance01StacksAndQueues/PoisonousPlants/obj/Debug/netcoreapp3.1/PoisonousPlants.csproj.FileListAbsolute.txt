@@ -1,0 +1,13 @@
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\PoisonousPlants\bin\Debug\netcoreapp3.1\PoisonousPlants.exe
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\PoisonousPlants\bin\Debug\netcoreapp3.1\PoisonousPlants.deps.json
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\PoisonousPlants\bin\Debug\netcoreapp3.1\PoisonousPlants.runtimeconfig.json
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\PoisonousPlants\bin\Debug\netcoreapp3.1\PoisonousPlants.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\PoisonousPlants\bin\Debug\netcoreapp3.1\PoisonousPlants.dll
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\PoisonousPlants\bin\Debug\netcoreapp3.1\PoisonousPlants.pdb
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\PoisonousPlants\obj\Debug\netcoreapp3.1\PoisonousPlants.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\PoisonousPlants\obj\Debug\netcoreapp3.1\PoisonousPlants.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\PoisonousPlants\obj\Debug\netcoreapp3.1\PoisonousPlants.AssemblyInfo.cs
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\PoisonousPlants\obj\Debug\netcoreapp3.1\PoisonousPlants.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\PoisonousPlants\obj\Debug\netcoreapp3.1\PoisonousPlants.dll
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\PoisonousPlants\obj\Debug\netcoreapp3.1\PoisonousPlants.pdb
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\PoisonousPlants\obj\Debug\netcoreapp3.1\PoisonousPlants.genruntimeconfig.cache

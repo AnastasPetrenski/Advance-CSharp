@@ -1,0 +1,13 @@
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\CalculateSequenceWithQueue\bin\Debug\netcoreapp3.1\CalculateSequenceWithQueue.exe
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\CalculateSequenceWithQueue\bin\Debug\netcoreapp3.1\CalculateSequenceWithQueue.deps.json
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\CalculateSequenceWithQueue\bin\Debug\netcoreapp3.1\CalculateSequenceWithQueue.runtimeconfig.json
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\CalculateSequenceWithQueue\bin\Debug\netcoreapp3.1\CalculateSequenceWithQueue.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\CalculateSequenceWithQueue\bin\Debug\netcoreapp3.1\CalculateSequenceWithQueue.dll
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\CalculateSequenceWithQueue\bin\Debug\netcoreapp3.1\CalculateSequenceWithQueue.pdb
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\CalculateSequenceWithQueue\obj\Debug\netcoreapp3.1\CalculateSequenceWithQueue.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\CalculateSequenceWithQueue\obj\Debug\netcoreapp3.1\CalculateSequenceWithQueue.AssemblyInfo.cs
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\CalculateSequenceWithQueue\obj\Debug\netcoreapp3.1\CalculateSequenceWithQueue.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\CalculateSequenceWithQueue\obj\Debug\netcoreapp3.1\CalculateSequenceWithQueue.dll
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\CalculateSequenceWithQueue\obj\Debug\netcoreapp3.1\CalculateSequenceWithQueue.pdb
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\CalculateSequenceWithQueue\obj\Debug\netcoreapp3.1\CalculateSequenceWithQueue.genruntimeconfig.cache
+C:\Users\anastas\source\repos\Advance01StacksAndQueues\CalculateSequenceWithQueue\obj\Debug\netcoreapp3.1\CalculateSequenceWithQueue.csprojAssemblyReference.cache
