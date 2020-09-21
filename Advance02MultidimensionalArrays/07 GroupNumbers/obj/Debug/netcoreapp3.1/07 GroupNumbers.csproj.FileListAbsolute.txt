@@ -1,0 +1,13 @@
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\07 GroupNumbers\obj\Debug\netcoreapp3.1\07 GroupNumbers.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\07 GroupNumbers\obj\Debug\netcoreapp3.1\07 GroupNumbers.AssemblyInfo.cs
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\07 GroupNumbers\obj\Debug\netcoreapp3.1\07 GroupNumbers.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\07 GroupNumbers\bin\Debug\netcoreapp3.1\07 GroupNumbers.exe
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\07 GroupNumbers\bin\Debug\netcoreapp3.1\07 GroupNumbers.deps.json
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\07 GroupNumbers\bin\Debug\netcoreapp3.1\07 GroupNumbers.runtimeconfig.json
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\07 GroupNumbers\bin\Debug\netcoreapp3.1\07 GroupNumbers.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\07 GroupNumbers\bin\Debug\netcoreapp3.1\07 GroupNumbers.dll
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\07 GroupNumbers\bin\Debug\netcoreapp3.1\07 GroupNumbers.pdb
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\07 GroupNumbers\obj\Debug\netcoreapp3.1\07 GroupNumbers.dll
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\07 GroupNumbers\obj\Debug\netcoreapp3.1\07 GroupNumbers.pdb
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\07 GroupNumbers\obj\Debug\netcoreapp3.1\07 GroupNumbers.genruntimeconfig.cache
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\07 GroupNumbers\obj\Debug\netcoreapp3.1\07 GroupNumbers.csprojAssemblyReference.cache
