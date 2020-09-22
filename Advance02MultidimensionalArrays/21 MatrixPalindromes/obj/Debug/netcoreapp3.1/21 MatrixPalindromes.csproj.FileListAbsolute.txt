@@ -1,0 +1,13 @@
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\21 MatrixPalindromes\bin\Debug\netcoreapp3.1\21 MatrixPalindromes.exe
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\21 MatrixPalindromes\bin\Debug\netcoreapp3.1\21 MatrixPalindromes.deps.json
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\21 MatrixPalindromes\bin\Debug\netcoreapp3.1\21 MatrixPalindromes.runtimeconfig.json
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\21 MatrixPalindromes\bin\Debug\netcoreapp3.1\21 MatrixPalindromes.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\21 MatrixPalindromes\bin\Debug\netcoreapp3.1\21 MatrixPalindromes.dll
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\21 MatrixPalindromes\bin\Debug\netcoreapp3.1\21 MatrixPalindromes.pdb
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\21 MatrixPalindromes\obj\Debug\netcoreapp3.1\21 MatrixPalindromes.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\21 MatrixPalindromes\obj\Debug\netcoreapp3.1\21 MatrixPalindromes.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\21 MatrixPalindromes\obj\Debug\netcoreapp3.1\21 MatrixPalindromes.AssemblyInfo.cs
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\21 MatrixPalindromes\obj\Debug\netcoreapp3.1\21 MatrixPalindromes.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\21 MatrixPalindromes\obj\Debug\netcoreapp3.1\21 MatrixPalindromes.dll
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\21 MatrixPalindromes\obj\Debug\netcoreapp3.1\21 MatrixPalindromes.pdb
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\21 MatrixPalindromes\obj\Debug\netcoreapp3.1\21 MatrixPalindromes.genruntimeconfig.cache

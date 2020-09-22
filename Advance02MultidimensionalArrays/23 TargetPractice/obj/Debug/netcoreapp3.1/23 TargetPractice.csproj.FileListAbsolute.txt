@@ -1,0 +1,13 @@
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\23 TargetPractice\bin\Debug\netcoreapp3.1\23 TargetPractice.exe
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\23 TargetPractice\bin\Debug\netcoreapp3.1\23 TargetPractice.deps.json
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\23 TargetPractice\bin\Debug\netcoreapp3.1\23 TargetPractice.runtimeconfig.json
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\23 TargetPractice\bin\Debug\netcoreapp3.1\23 TargetPractice.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\23 TargetPractice\bin\Debug\netcoreapp3.1\23 TargetPractice.dll
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\23 TargetPractice\bin\Debug\netcoreapp3.1\23 TargetPractice.pdb
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\23 TargetPractice\obj\Debug\netcoreapp3.1\23 TargetPractice.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\23 TargetPractice\obj\Debug\netcoreapp3.1\23 TargetPractice.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\23 TargetPractice\obj\Debug\netcoreapp3.1\23 TargetPractice.AssemblyInfo.cs
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\23 TargetPractice\obj\Debug\netcoreapp3.1\23 TargetPractice.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\23 TargetPractice\obj\Debug\netcoreapp3.1\23 TargetPractice.dll
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\23 TargetPractice\obj\Debug\netcoreapp3.1\23 TargetPractice.pdb
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\23 TargetPractice\obj\Debug\netcoreapp3.1\23 TargetPractice.genruntimeconfig.cache

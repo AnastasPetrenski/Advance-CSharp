@@ -1,0 +1,13 @@
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\22 RubiksMatrix\bin\Debug\netcoreapp3.1\22 RubiksMatrix.exe
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\22 RubiksMatrix\bin\Debug\netcoreapp3.1\22 RubiksMatrix.deps.json
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\22 RubiksMatrix\bin\Debug\netcoreapp3.1\22 RubiksMatrix.runtimeconfig.json
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\22 RubiksMatrix\bin\Debug\netcoreapp3.1\22 RubiksMatrix.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\22 RubiksMatrix\bin\Debug\netcoreapp3.1\22 RubiksMatrix.dll
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\22 RubiksMatrix\bin\Debug\netcoreapp3.1\22 RubiksMatrix.pdb
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\22 RubiksMatrix\obj\Debug\netcoreapp3.1\22 RubiksMatrix.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\22 RubiksMatrix\obj\Debug\netcoreapp3.1\22 RubiksMatrix.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\22 RubiksMatrix\obj\Debug\netcoreapp3.1\22 RubiksMatrix.AssemblyInfo.cs
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\22 RubiksMatrix\obj\Debug\netcoreapp3.1\22 RubiksMatrix.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\22 RubiksMatrix\obj\Debug\netcoreapp3.1\22 RubiksMatrix.dll
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\22 RubiksMatrix\obj\Debug\netcoreapp3.1\22 RubiksMatrix.pdb
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\22 RubiksMatrix\obj\Debug\netcoreapp3.1\22 RubiksMatrix.genruntimeconfig.cache
