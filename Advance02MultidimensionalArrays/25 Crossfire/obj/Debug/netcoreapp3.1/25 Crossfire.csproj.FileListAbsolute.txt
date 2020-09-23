@@ -1,0 +1,13 @@
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\25 Crossfire\bin\Debug\netcoreapp3.1\25 Crossfire.exe
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\25 Crossfire\bin\Debug\netcoreapp3.1\25 Crossfire.deps.json
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\25 Crossfire\bin\Debug\netcoreapp3.1\25 Crossfire.runtimeconfig.json
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\25 Crossfire\bin\Debug\netcoreapp3.1\25 Crossfire.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\25 Crossfire\bin\Debug\netcoreapp3.1\25 Crossfire.dll
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\25 Crossfire\bin\Debug\netcoreapp3.1\25 Crossfire.pdb
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\25 Crossfire\obj\Debug\netcoreapp3.1\25 Crossfire.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\25 Crossfire\obj\Debug\netcoreapp3.1\25 Crossfire.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\25 Crossfire\obj\Debug\netcoreapp3.1\25 Crossfire.AssemblyInfo.cs
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\25 Crossfire\obj\Debug\netcoreapp3.1\25 Crossfire.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\25 Crossfire\obj\Debug\netcoreapp3.1\25 Crossfire.dll
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\25 Crossfire\obj\Debug\netcoreapp3.1\25 Crossfire.pdb
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\25 Crossfire\obj\Debug\netcoreapp3.1\25 Crossfire.genruntimeconfig.cache

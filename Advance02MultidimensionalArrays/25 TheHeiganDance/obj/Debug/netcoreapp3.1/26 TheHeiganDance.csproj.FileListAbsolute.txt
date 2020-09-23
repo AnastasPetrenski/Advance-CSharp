@@ -1,0 +1,13 @@
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\25 TheHeiganDance\bin\Debug\netcoreapp3.1\26 TheHeiganDance.exe
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\25 TheHeiganDance\bin\Debug\netcoreapp3.1\26 TheHeiganDance.deps.json
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\25 TheHeiganDance\bin\Debug\netcoreapp3.1\26 TheHeiganDance.runtimeconfig.json
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\25 TheHeiganDance\bin\Debug\netcoreapp3.1\26 TheHeiganDance.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\25 TheHeiganDance\bin\Debug\netcoreapp3.1\26 TheHeiganDance.dll
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\25 TheHeiganDance\bin\Debug\netcoreapp3.1\26 TheHeiganDance.pdb
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\25 TheHeiganDance\obj\Debug\netcoreapp3.1\26 TheHeiganDance.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\25 TheHeiganDance\obj\Debug\netcoreapp3.1\26 TheHeiganDance.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\25 TheHeiganDance\obj\Debug\netcoreapp3.1\26 TheHeiganDance.AssemblyInfo.cs
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\25 TheHeiganDance\obj\Debug\netcoreapp3.1\26 TheHeiganDance.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\25 TheHeiganDance\obj\Debug\netcoreapp3.1\26 TheHeiganDance.dll
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\25 TheHeiganDance\obj\Debug\netcoreapp3.1\26 TheHeiganDance.pdb
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\25 TheHeiganDance\obj\Debug\netcoreapp3.1\26 TheHeiganDance.genruntimeconfig.cache

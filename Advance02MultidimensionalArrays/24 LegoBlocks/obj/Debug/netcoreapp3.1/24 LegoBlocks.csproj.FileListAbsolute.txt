@@ -1,0 +1,13 @@
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\24 LegoBlocks\bin\Debug\netcoreapp3.1\24 LegoBlocks.exe
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\24 LegoBlocks\bin\Debug\netcoreapp3.1\24 LegoBlocks.deps.json
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\24 LegoBlocks\bin\Debug\netcoreapp3.1\24 LegoBlocks.runtimeconfig.json
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\24 LegoBlocks\bin\Debug\netcoreapp3.1\24 LegoBlocks.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\24 LegoBlocks\bin\Debug\netcoreapp3.1\24 LegoBlocks.dll
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\24 LegoBlocks\bin\Debug\netcoreapp3.1\24 LegoBlocks.pdb
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\24 LegoBlocks\obj\Debug\netcoreapp3.1\24 LegoBlocks.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\24 LegoBlocks\obj\Debug\netcoreapp3.1\24 LegoBlocks.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\24 LegoBlocks\obj\Debug\netcoreapp3.1\24 LegoBlocks.AssemblyInfo.cs
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\24 LegoBlocks\obj\Debug\netcoreapp3.1\24 LegoBlocks.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\24 LegoBlocks\obj\Debug\netcoreapp3.1\24 LegoBlocks.dll
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\24 LegoBlocks\obj\Debug\netcoreapp3.1\24 LegoBlocks.pdb
+C:\Users\anastas\source\repos\Advance02MultidimensionalArrays\24 LegoBlocks\obj\Debug\netcoreapp3.1\24 LegoBlocks.genruntimeconfig.cache
