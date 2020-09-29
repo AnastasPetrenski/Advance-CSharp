@@ -1,0 +1,13 @@
+C:\Users\anastas\source\repos\Advance06DefiningClasses\CarManufacturer\bin\Debug\netcoreapp3.0\CarManufacturer.exe
+C:\Users\anastas\source\repos\Advance06DefiningClasses\CarManufacturer\bin\Debug\netcoreapp3.0\CarManufacturer.deps.json
+C:\Users\anastas\source\repos\Advance06DefiningClasses\CarManufacturer\bin\Debug\netcoreapp3.0\CarManufacturer.runtimeconfig.json
+C:\Users\anastas\source\repos\Advance06DefiningClasses\CarManufacturer\bin\Debug\netcoreapp3.0\CarManufacturer.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\Advance06DefiningClasses\CarManufacturer\bin\Debug\netcoreapp3.0\CarManufacturer.dll
+C:\Users\anastas\source\repos\Advance06DefiningClasses\CarManufacturer\bin\Debug\netcoreapp3.0\CarManufacturer.pdb
+C:\Users\anastas\source\repos\Advance06DefiningClasses\CarManufacturer\obj\Debug\netcoreapp3.0\CarManufacturer.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\Advance06DefiningClasses\CarManufacturer\obj\Debug\netcoreapp3.0\CarManufacturer.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\Advance06DefiningClasses\CarManufacturer\obj\Debug\netcoreapp3.0\CarManufacturer.AssemblyInfo.cs
+C:\Users\anastas\source\repos\Advance06DefiningClasses\CarManufacturer\obj\Debug\netcoreapp3.0\CarManufacturer.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\Advance06DefiningClasses\CarManufacturer\obj\Debug\netcoreapp3.0\CarManufacturer.dll
+C:\Users\anastas\source\repos\Advance06DefiningClasses\CarManufacturer\obj\Debug\netcoreapp3.0\CarManufacturer.pdb
+C:\Users\anastas\source\repos\Advance06DefiningClasses\CarManufacturer\obj\Debug\netcoreapp3.0\CarManufacturer.genruntimeconfig.cache
