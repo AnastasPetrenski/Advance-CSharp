@@ -1,0 +1,13 @@
+C:\Users\anastas\source\repos\Advance08Generics\GenericArrayCreator\bin\Debug\netcoreapp3.0\GenericArrayCreator.exe
+C:\Users\anastas\source\repos\Advance08Generics\GenericArrayCreator\bin\Debug\netcoreapp3.0\GenericArrayCreator.deps.json
+C:\Users\anastas\source\repos\Advance08Generics\GenericArrayCreator\bin\Debug\netcoreapp3.0\GenericArrayCreator.runtimeconfig.json
+C:\Users\anastas\source\repos\Advance08Generics\GenericArrayCreator\bin\Debug\netcoreapp3.0\GenericArrayCreator.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\Advance08Generics\GenericArrayCreator\bin\Debug\netcoreapp3.0\GenericArrayCreator.dll
+C:\Users\anastas\source\repos\Advance08Generics\GenericArrayCreator\bin\Debug\netcoreapp3.0\GenericArrayCreator.pdb
+C:\Users\anastas\source\repos\Advance08Generics\GenericArrayCreator\obj\Debug\netcoreapp3.0\GenericArrayCreator.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\Advance08Generics\GenericArrayCreator\obj\Debug\netcoreapp3.0\GenericArrayCreator.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\Advance08Generics\GenericArrayCreator\obj\Debug\netcoreapp3.0\GenericArrayCreator.AssemblyInfo.cs
+C:\Users\anastas\source\repos\Advance08Generics\GenericArrayCreator\obj\Debug\netcoreapp3.0\GenericArrayCreator.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\Advance08Generics\GenericArrayCreator\obj\Debug\netcoreapp3.0\GenericArrayCreator.dll
+C:\Users\anastas\source\repos\Advance08Generics\GenericArrayCreator\obj\Debug\netcoreapp3.0\GenericArrayCreator.pdb
+C:\Users\anastas\source\repos\Advance08Generics\GenericArrayCreator\obj\Debug\netcoreapp3.0\GenericArrayCreator.genruntimeconfig.cache

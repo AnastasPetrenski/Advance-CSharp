@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "kUGXXUpII4nirKBr+RiM6dpePe855Izpf680m+9X/thvsSyly2swJs4YlrRB/504O3TLgN+8BaZC9RtkjZQtHw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\anastas\\source\\repos\\Advance08Generics\\GenericBoxOfString\\GenericBoxOfString.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anastas\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\anastas\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\anastas\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\anastas\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

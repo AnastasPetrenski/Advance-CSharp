@@ -1,0 +1,12 @@
+C:\Users\anastas\source\repos\Advance08Generics\GenericSwapMethodIntegers\bin\Debug\netcoreapp3.1\GenericSwapMethodIntegers.exe
+C:\Users\anastas\source\repos\Advance08Generics\GenericSwapMethodIntegers\bin\Debug\netcoreapp3.1\GenericSwapMethodIntegers.deps.json
+C:\Users\anastas\source\repos\Advance08Generics\GenericSwapMethodIntegers\bin\Debug\netcoreapp3.1\GenericSwapMethodIntegers.runtimeconfig.json
+C:\Users\anastas\source\repos\Advance08Generics\GenericSwapMethodIntegers\bin\Debug\netcoreapp3.1\GenericSwapMethodIntegers.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\Advance08Generics\GenericSwapMethodIntegers\bin\Debug\netcoreapp3.1\GenericSwapMethodIntegers.dll
+C:\Users\anastas\source\repos\Advance08Generics\GenericSwapMethodIntegers\bin\Debug\netcoreapp3.1\GenericSwapMethodIntegers.pdb
+C:\Users\anastas\source\repos\Advance08Generics\GenericSwapMethodIntegers\obj\Debug\netcoreapp3.1\GenericSwapMethodIntegers.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\Advance08Generics\GenericSwapMethodIntegers\obj\Debug\netcoreapp3.1\GenericSwapMethodIntegers.AssemblyInfo.cs
+C:\Users\anastas\source\repos\Advance08Generics\GenericSwapMethodIntegers\obj\Debug\netcoreapp3.1\GenericSwapMethodIntegers.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\Advance08Generics\GenericSwapMethodIntegers\obj\Debug\netcoreapp3.1\GenericSwapMethodIntegers.dll
+C:\Users\anastas\source\repos\Advance08Generics\GenericSwapMethodIntegers\obj\Debug\netcoreapp3.1\GenericSwapMethodIntegers.pdb
+C:\Users\anastas\source\repos\Advance08Generics\GenericSwapMethodIntegers\obj\Debug\netcoreapp3.1\GenericSwapMethodIntegers.genruntimeconfig.cache

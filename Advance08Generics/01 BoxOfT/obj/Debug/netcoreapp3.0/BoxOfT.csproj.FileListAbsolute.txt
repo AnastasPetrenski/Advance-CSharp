@@ -1,0 +1,13 @@
+C:\Users\anastas\source\repos\Advance08Generics\01 BoxOfT\bin\Debug\netcoreapp3.0\BoxOfT.exe
+C:\Users\anastas\source\repos\Advance08Generics\01 BoxOfT\bin\Debug\netcoreapp3.0\BoxOfT.deps.json
+C:\Users\anastas\source\repos\Advance08Generics\01 BoxOfT\bin\Debug\netcoreapp3.0\BoxOfT.runtimeconfig.json
+C:\Users\anastas\source\repos\Advance08Generics\01 BoxOfT\bin\Debug\netcoreapp3.0\BoxOfT.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\Advance08Generics\01 BoxOfT\bin\Debug\netcoreapp3.0\BoxOfT.dll
+C:\Users\anastas\source\repos\Advance08Generics\01 BoxOfT\bin\Debug\netcoreapp3.0\BoxOfT.pdb
+C:\Users\anastas\source\repos\Advance08Generics\01 BoxOfT\obj\Debug\netcoreapp3.0\BoxOfT.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\Advance08Generics\01 BoxOfT\obj\Debug\netcoreapp3.0\BoxOfT.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\Advance08Generics\01 BoxOfT\obj\Debug\netcoreapp3.0\BoxOfT.AssemblyInfo.cs
+C:\Users\anastas\source\repos\Advance08Generics\01 BoxOfT\obj\Debug\netcoreapp3.0\BoxOfT.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\Advance08Generics\01 BoxOfT\obj\Debug\netcoreapp3.0\BoxOfT.dll
+C:\Users\anastas\source\repos\Advance08Generics\01 BoxOfT\obj\Debug\netcoreapp3.0\BoxOfT.pdb
+C:\Users\anastas\source\repos\Advance08Generics\01 BoxOfT\obj\Debug\netcoreapp3.0\BoxOfT.genruntimeconfig.cache

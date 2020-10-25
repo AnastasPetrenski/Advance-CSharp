@@ -1,0 +1,13 @@
+C:\Users\anastas\source\repos\Advance08Generics\GenericBoxOfInteger\bin\Debug\netcoreapp3.1\GenericBoxOfInteger.exe
+C:\Users\anastas\source\repos\Advance08Generics\GenericBoxOfInteger\bin\Debug\netcoreapp3.1\GenericBoxOfInteger.deps.json
+C:\Users\anastas\source\repos\Advance08Generics\GenericBoxOfInteger\bin\Debug\netcoreapp3.1\GenericBoxOfInteger.runtimeconfig.json
+C:\Users\anastas\source\repos\Advance08Generics\GenericBoxOfInteger\bin\Debug\netcoreapp3.1\GenericBoxOfInteger.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\Advance08Generics\GenericBoxOfInteger\bin\Debug\netcoreapp3.1\GenericBoxOfInteger.dll
+C:\Users\anastas\source\repos\Advance08Generics\GenericBoxOfInteger\bin\Debug\netcoreapp3.1\GenericBoxOfInteger.pdb
+C:\Users\anastas\source\repos\Advance08Generics\GenericBoxOfInteger\obj\Debug\netcoreapp3.1\GenericBoxOfInteger.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\Advance08Generics\GenericBoxOfInteger\obj\Debug\netcoreapp3.1\GenericBoxOfInteger.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\Advance08Generics\GenericBoxOfInteger\obj\Debug\netcoreapp3.1\GenericBoxOfInteger.AssemblyInfo.cs
+C:\Users\anastas\source\repos\Advance08Generics\GenericBoxOfInteger\obj\Debug\netcoreapp3.1\GenericBoxOfInteger.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\Advance08Generics\GenericBoxOfInteger\obj\Debug\netcoreapp3.1\GenericBoxOfInteger.dll
+C:\Users\anastas\source\repos\Advance08Generics\GenericBoxOfInteger\obj\Debug\netcoreapp3.1\GenericBoxOfInteger.pdb
+C:\Users\anastas\source\repos\Advance08Generics\GenericBoxOfInteger\obj\Debug\netcoreapp3.1\GenericBoxOfInteger.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\anastas\source\repos\Advance08Generics\GenericCountMethodDoubles\bin\Debug\netcoreapp3.1\GenericCountMethodDoubles.exe
+C:\Users\anastas\source\repos\Advance08Generics\GenericCountMethodDoubles\bin\Debug\netcoreapp3.1\GenericCountMethodDoubles.deps.json
+C:\Users\anastas\source\repos\Advance08Generics\GenericCountMethodDoubles\bin\Debug\netcoreapp3.1\GenericCountMethodDoubles.runtimeconfig.json
+C:\Users\anastas\source\repos\Advance08Generics\GenericCountMethodDoubles\bin\Debug\netcoreapp3.1\GenericCountMethodDoubles.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\Advance08Generics\GenericCountMethodDoubles\bin\Debug\netcoreapp3.1\GenericCountMethodDoubles.dll
+C:\Users\anastas\source\repos\Advance08Generics\GenericCountMethodDoubles\bin\Debug\netcoreapp3.1\GenericCountMethodDoubles.pdb
+C:\Users\anastas\source\repos\Advance08Generics\GenericCountMethodDoubles\obj\Debug\netcoreapp3.1\GenericCountMethodDoubles.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\Advance08Generics\GenericCountMethodDoubles\obj\Debug\netcoreapp3.1\GenericCountMethodDoubles.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\Advance08Generics\GenericCountMethodDoubles\obj\Debug\netcoreapp3.1\GenericCountMethodDoubles.AssemblyInfo.cs
+C:\Users\anastas\source\repos\Advance08Generics\GenericCountMethodDoubles\obj\Debug\netcoreapp3.1\GenericCountMethodDoubles.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\Advance08Generics\GenericCountMethodDoubles\obj\Debug\netcoreapp3.1\GenericCountMethodDoubles.dll
+C:\Users\anastas\source\repos\Advance08Generics\GenericCountMethodDoubles\obj\Debug\netcoreapp3.1\GenericCountMethodDoubles.pdb
+C:\Users\anastas\source\repos\Advance08Generics\GenericCountMethodDoubles\obj\Debug\netcoreapp3.1\GenericCountMethodDoubles.genruntimeconfig.cache

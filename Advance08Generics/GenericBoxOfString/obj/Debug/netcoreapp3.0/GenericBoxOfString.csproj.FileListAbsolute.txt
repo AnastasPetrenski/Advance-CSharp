@@ -1,0 +1,13 @@
+C:\Users\anastas\source\repos\Advance08Generics\GenericBoxOfString\bin\Debug\netcoreapp3.0\GenericBoxOfString.exe
+C:\Users\anastas\source\repos\Advance08Generics\GenericBoxOfString\bin\Debug\netcoreapp3.0\GenericBoxOfString.deps.json
+C:\Users\anastas\source\repos\Advance08Generics\GenericBoxOfString\bin\Debug\netcoreapp3.0\GenericBoxOfString.runtimeconfig.json
+C:\Users\anastas\source\repos\Advance08Generics\GenericBoxOfString\bin\Debug\netcoreapp3.0\GenericBoxOfString.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\Advance08Generics\GenericBoxOfString\bin\Debug\netcoreapp3.0\GenericBoxOfString.dll
+C:\Users\anastas\source\repos\Advance08Generics\GenericBoxOfString\bin\Debug\netcoreapp3.0\GenericBoxOfString.pdb
+C:\Users\anastas\source\repos\Advance08Generics\GenericBoxOfString\obj\Debug\netcoreapp3.0\GenericBoxOfString.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\Advance08Generics\GenericBoxOfString\obj\Debug\netcoreapp3.0\GenericBoxOfString.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\Advance08Generics\GenericBoxOfString\obj\Debug\netcoreapp3.0\GenericBoxOfString.AssemblyInfo.cs
+C:\Users\anastas\source\repos\Advance08Generics\GenericBoxOfString\obj\Debug\netcoreapp3.0\GenericBoxOfString.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\Advance08Generics\GenericBoxOfString\obj\Debug\netcoreapp3.0\GenericBoxOfString.dll
+C:\Users\anastas\source\repos\Advance08Generics\GenericBoxOfString\obj\Debug\netcoreapp3.0\GenericBoxOfString.pdb
+C:\Users\anastas\source\repos\Advance08Generics\GenericBoxOfString\obj\Debug\netcoreapp3.0\GenericBoxOfString.genruntimeconfig.cache
