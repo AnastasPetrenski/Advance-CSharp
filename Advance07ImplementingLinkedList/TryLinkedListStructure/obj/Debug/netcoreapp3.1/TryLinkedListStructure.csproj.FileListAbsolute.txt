@@ -1,0 +1,13 @@
+C:\Users\anastas\source\repos\Advance07ImplementingLinkedList\TryLinkedListStructure\bin\Debug\netcoreapp3.1\TryLinkedListStructure.exe
+C:\Users\anastas\source\repos\Advance07ImplementingLinkedList\TryLinkedListStructure\bin\Debug\netcoreapp3.1\TryLinkedListStructure.deps.json
+C:\Users\anastas\source\repos\Advance07ImplementingLinkedList\TryLinkedListStructure\bin\Debug\netcoreapp3.1\TryLinkedListStructure.runtimeconfig.json
+C:\Users\anastas\source\repos\Advance07ImplementingLinkedList\TryLinkedListStructure\bin\Debug\netcoreapp3.1\TryLinkedListStructure.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\Advance07ImplementingLinkedList\TryLinkedListStructure\bin\Debug\netcoreapp3.1\TryLinkedListStructure.dll
+C:\Users\anastas\source\repos\Advance07ImplementingLinkedList\TryLinkedListStructure\bin\Debug\netcoreapp3.1\TryLinkedListStructure.pdb
+C:\Users\anastas\source\repos\Advance07ImplementingLinkedList\TryLinkedListStructure\obj\Debug\netcoreapp3.1\TryLinkedListStructure.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\Advance07ImplementingLinkedList\TryLinkedListStructure\obj\Debug\netcoreapp3.1\TryLinkedListStructure.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\Advance07ImplementingLinkedList\TryLinkedListStructure\obj\Debug\netcoreapp3.1\TryLinkedListStructure.AssemblyInfo.cs
+C:\Users\anastas\source\repos\Advance07ImplementingLinkedList\TryLinkedListStructure\obj\Debug\netcoreapp3.1\TryLinkedListStructure.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\Advance07ImplementingLinkedList\TryLinkedListStructure\obj\Debug\netcoreapp3.1\TryLinkedListStructure.dll
+C:\Users\anastas\source\repos\Advance07ImplementingLinkedList\TryLinkedListStructure\obj\Debug\netcoreapp3.1\TryLinkedListStructure.pdb
+C:\Users\anastas\source\repos\Advance07ImplementingLinkedList\TryLinkedListStructure\obj\Debug\netcoreapp3.1\TryLinkedListStructure.genruntimeconfig.cache

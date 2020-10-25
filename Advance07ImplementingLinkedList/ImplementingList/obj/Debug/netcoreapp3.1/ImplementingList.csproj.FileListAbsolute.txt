@@ -1,0 +1,13 @@
+C:\Users\anastas\source\repos\Advance07ImplementingLinkedList\ImplementingList\bin\Debug\netcoreapp3.1\ImplementingList.exe
+C:\Users\anastas\source\repos\Advance07ImplementingLinkedList\ImplementingList\bin\Debug\netcoreapp3.1\ImplementingList.deps.json
+C:\Users\anastas\source\repos\Advance07ImplementingLinkedList\ImplementingList\bin\Debug\netcoreapp3.1\ImplementingList.runtimeconfig.json
+C:\Users\anastas\source\repos\Advance07ImplementingLinkedList\ImplementingList\bin\Debug\netcoreapp3.1\ImplementingList.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\Advance07ImplementingLinkedList\ImplementingList\bin\Debug\netcoreapp3.1\ImplementingList.dll
+C:\Users\anastas\source\repos\Advance07ImplementingLinkedList\ImplementingList\bin\Debug\netcoreapp3.1\ImplementingList.pdb
+C:\Users\anastas\source\repos\Advance07ImplementingLinkedList\ImplementingList\obj\Debug\netcoreapp3.1\ImplementingList.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\Advance07ImplementingLinkedList\ImplementingList\obj\Debug\netcoreapp3.1\ImplementingList.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\Advance07ImplementingLinkedList\ImplementingList\obj\Debug\netcoreapp3.1\ImplementingList.AssemblyInfo.cs
+C:\Users\anastas\source\repos\Advance07ImplementingLinkedList\ImplementingList\obj\Debug\netcoreapp3.1\ImplementingList.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\Advance07ImplementingLinkedList\ImplementingList\obj\Debug\netcoreapp3.1\ImplementingList.dll
+C:\Users\anastas\source\repos\Advance07ImplementingLinkedList\ImplementingList\obj\Debug\netcoreapp3.1\ImplementingList.pdb
+C:\Users\anastas\source\repos\Advance07ImplementingLinkedList\ImplementingList\obj\Debug\netcoreapp3.1\ImplementingList.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\anastas\source\repos\Advance07ImplementingLinkedList\ImplementingLinkedList\bin\Debug\netcoreapp3.1\ImplementingLinkedList.exe
+C:\Users\anastas\source\repos\Advance07ImplementingLinkedList\ImplementingLinkedList\bin\Debug\netcoreapp3.1\ImplementingLinkedList.deps.json
+C:\Users\anastas\source\repos\Advance07ImplementingLinkedList\ImplementingLinkedList\bin\Debug\netcoreapp3.1\ImplementingLinkedList.runtimeconfig.json
+C:\Users\anastas\source\repos\Advance07ImplementingLinkedList\ImplementingLinkedList\bin\Debug\netcoreapp3.1\ImplementingLinkedList.runtimeconfig.dev.json
+C:\Users\anastas\source\repos\Advance07ImplementingLinkedList\ImplementingLinkedList\bin\Debug\netcoreapp3.1\ImplementingLinkedList.dll
+C:\Users\anastas\source\repos\Advance07ImplementingLinkedList\ImplementingLinkedList\bin\Debug\netcoreapp3.1\ImplementingLinkedList.pdb
+C:\Users\anastas\source\repos\Advance07ImplementingLinkedList\ImplementingLinkedList\obj\Debug\netcoreapp3.1\ImplementingLinkedList.csprojAssemblyReference.cache
+C:\Users\anastas\source\repos\Advance07ImplementingLinkedList\ImplementingLinkedList\obj\Debug\netcoreapp3.1\ImplementingLinkedList.AssemblyInfoInputs.cache
+C:\Users\anastas\source\repos\Advance07ImplementingLinkedList\ImplementingLinkedList\obj\Debug\netcoreapp3.1\ImplementingLinkedList.AssemblyInfo.cs
+C:\Users\anastas\source\repos\Advance07ImplementingLinkedList\ImplementingLinkedList\obj\Debug\netcoreapp3.1\ImplementingLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\anastas\source\repos\Advance07ImplementingLinkedList\ImplementingLinkedList\obj\Debug\netcoreapp3.1\ImplementingLinkedList.dll
+C:\Users\anastas\source\repos\Advance07ImplementingLinkedList\ImplementingLinkedList\obj\Debug\netcoreapp3.1\ImplementingLinkedList.pdb
+C:\Users\anastas\source\repos\Advance07ImplementingLinkedList\ImplementingLinkedList\obj\Debug\netcoreapp3.1\ImplementingLinkedList.genruntimeconfig.cache
